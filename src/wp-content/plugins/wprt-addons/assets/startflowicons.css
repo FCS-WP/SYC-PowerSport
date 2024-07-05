@@ -1,0 +1,146 @@
+@font-face {
+  font-family: 'AgrikoleIcons';
+  src:  url('agrikoleicons/AgrikoleIcons.eot?ceftyp');
+  src:  url('agrikoleicons/AgrikoleIcons.eot?ceftyp#iefix') format('embedded-opentype'),
+    url('agrikoleicons/AgrikoleIcons.ttf?ceftyp') format('truetype'),
+    url('agrikoleicons/AgrikoleIcons.woff?ceftyp') format('woff'),
+    url('agrikoleicons/AgrikoleIcons.svg?ceftyp#AgrikoleIcons') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="agrikoleico-"], [class*=" agrikoleico-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'AgrikoleIcons' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.agrikoleico-barrel:before {
+  content: "\e900";
+}
+.agrikoleico-bio:before {
+  content: "\e901";
+}
+.agrikoleico-flask:before {
+  content: "\e902";
+}
+.agrikoleico-pumpjack:before {
+  content: "\e903";
+}
+.agrikoleico-barrier:before {
+  content: "\e904";
+}
+.agrikoleico-barrier-1:before {
+  content: "\e905";
+}
+.agrikoleico-brick-wall:before {
+  content: "\e906";
+}
+.agrikoleico-brickwall:before {
+  content: "\e907";
+}
+.agrikoleico-bucket:before {
+  content: "\e908";
+}
+.agrikoleico-building:before {
+  content: "\e909";
+}
+.agrikoleico-construction:before {
+  content: "\e90a";
+}
+.agrikoleico-cone:before {
+  content: "\e90b";
+}
+.agrikoleico-construction-1:before {
+  content: "\e90c";
+}
+.agrikoleico-constructor:before {
+  content: "\e90d";
+}
+.agrikoleico-container:before {
+  content: "\e90e";
+}
+.agrikoleico-crane:before {
+  content: "\e90f";
+}
+.agrikoleico-hook:before {
+  content: "\e910";
+}
+.agrikoleico-crane-truck:before {
+  content: "\e911";
+}
+.agrikoleico-crane-1:before {
+  content: "\e912";
+}
+.agrikoleico-crane-truck-1:before {
+  content: "\e913";
+}
+.agrikoleico-danger:before {
+  content: "\e914";
+}
+.agrikoleico-driller:before {
+  content: "\e915";
+}
+.agrikoleico-excavator:before {
+  content: "\e916";
+}
+.agrikoleico-fence:before {
+  content: "\e917";
+}
+.agrikoleico-fuel:before {
+  content: "\e918";
+}
+.agrikoleico-gas-pipe:before {
+  content: "\e919";
+}
+.agrikoleico-helmet:before {
+  content: "\e91a";
+}
+.agrikoleico-industry:before {
+  content: "\e91b";
+}
+.agrikoleico-knot:before {
+  content: "\e91c";
+}
+.agrikoleico-ladder:before {
+  content: "\e91d";
+}
+.agrikoleico-pipe:before {
+  content: "\e91e";
+}
+.agrikoleico-plan:before {
+  content: "\e91f";
+}
+.agrikoleico-roller:before {
+  content: "\e920";
+}
+.agrikoleico-theodolite:before {
+  content: "\e921";
+}
+.agrikoleico-tractor:before {
+  content: "\e922";
+}
+.agrikoleico-trowel:before {
+  content: "\e923";
+}
+.agrikoleico-truck:before {
+  content: "\e924";
+}
+.agrikoleico-wheelbarrow:before {
+  content: "\e925";
+}
+.agrikoleico-ruler:before {
+  content: "\e926";
+}
+.agrikoleico-ruler-1:before {
+  content: "\e927";
+}

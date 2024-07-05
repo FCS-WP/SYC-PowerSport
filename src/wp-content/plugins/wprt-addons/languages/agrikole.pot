@@ -1,0 +1,3774 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: WPRT Addons for Agrikole\n"
+"POT-Creation-Date: 2023-04-07 18:01+0400\n"
+"PO-Revision-Date: 2023-04-07 18:00+0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: init.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: cpt/inc/archive-project.php:26 cpt/inc/single-project.php:66
+#: shortcodes/news.php:139 shortcodes/portfolio.php:123
+#: shortcodes/portfoliogrid.php:181
+msgid "Read More"
+msgstr ""
+
+#: cpt/inc/single-project.php:5
+msgid "EXPLORE PROJECTS"
+msgstr ""
+
+#: cpt/inc/single-project.php:6
+msgid "OUR RECENT PROJECTS"
+msgstr ""
+
+#: cpt/partner.php:14
+msgid "Partners"
+msgstr ""
+
+#: cpt/partner.php:15
+msgid "Partner Item"
+msgstr ""
+
+#: cpt/partner.php:16 cpt/project.php:16 cpt/team.php:16
+#: cpt/testimonials.php:16
+msgid "Add New"
+msgstr ""
+
+#: cpt/partner.php:17 cpt/project.php:17 cpt/team.php:17
+#: cpt/testimonials.php:17
+msgid "Add New Item"
+msgstr ""
+
+#: cpt/partner.php:18 cpt/project.php:18 cpt/team.php:18
+#: cpt/testimonials.php:18
+msgid "New Item"
+msgstr ""
+
+#: cpt/partner.php:19 cpt/project.php:19 cpt/team.php:19
+#: cpt/testimonials.php:19
+msgid "Edit Item"
+msgstr ""
+
+#: cpt/partner.php:20 cpt/project.php:20 cpt/team.php:20
+#: cpt/testimonials.php:20
+msgid "View Item"
+msgstr ""
+
+#: cpt/partner.php:21 cpt/project.php:21 cpt/team.php:21
+#: cpt/testimonials.php:21
+msgid "All Items"
+msgstr ""
+
+#: cpt/partner.php:22 cpt/project.php:22 cpt/team.php:22
+#: cpt/testimonials.php:22
+msgid "Search Items"
+msgstr ""
+
+#: cpt/partner.php:23 cpt/project.php:23 cpt/team.php:23
+#: cpt/testimonials.php:23
+msgid "Parent Items:"
+msgstr ""
+
+#: cpt/partner.php:24 cpt/project.php:24 cpt/team.php:24
+#: cpt/testimonials.php:24
+msgid "No items found."
+msgstr ""
+
+#: cpt/partner.php:25 cpt/project.php:25 cpt/team.php:25
+#: cpt/testimonials.php:25
+msgid "No items found in Trash."
+msgstr ""
+
+#: cpt/partner.php:49 cpt/partner.php:52
+msgid "Partner updated."
+msgstr ""
+
+#: cpt/partner.php:50 cpt/project.php:50 cpt/team.php:50
+#: cpt/testimonials.php:50
+msgid "Custom field updated."
+msgstr ""
+
+#: cpt/partner.php:51 cpt/project.php:51 cpt/team.php:51
+#: cpt/testimonials.php:51
+msgid "Custom field deleted."
+msgstr ""
+
+#: cpt/partner.php:53
+#, php-format
+msgid "Partner restored to revision from %s"
+msgstr ""
+
+#: cpt/partner.php:54
+msgid "Partner published."
+msgstr ""
+
+#: cpt/partner.php:55
+msgid "Partner saved."
+msgstr ""
+
+#: cpt/partner.php:56
+msgid "Partner submitted."
+msgstr ""
+
+#: cpt/partner.php:58
+#, php-format
+msgid "Partner scheduled for: <strong>%1$s</strong>."
+msgstr ""
+
+#: cpt/partner.php:59 cpt/project.php:59 cpt/team.php:59
+#: cpt/testimonials.php:59
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: cpt/partner.php:61
+msgid "Partner draft updated."
+msgstr ""
+
+#: cpt/partner.php:74
+msgid "Partner Categories"
+msgstr ""
+
+#: cpt/partner.php:75 cpt/project.php:75 cpt/team.php:75
+#: cpt/testimonials.php:75
+msgid "Category"
+msgstr ""
+
+#: cpt/partner.php:76 cpt/project.php:76 cpt/team.php:76
+#: cpt/testimonials.php:76
+msgid "Search Categories"
+msgstr ""
+
+#: cpt/partner.php:77 cpt/partner.php:88 cpt/project.php:77 cpt/project.php:88
+#: cpt/team.php:77 cpt/team.php:88 cpt/testimonials.php:77
+#: cpt/testimonials.php:88
+msgid "Categories"
+msgstr ""
+
+#: cpt/partner.php:78 cpt/project.php:78 cpt/team.php:78
+#: cpt/testimonials.php:78
+msgid "All Categories"
+msgstr ""
+
+#: cpt/partner.php:79 cpt/project.php:79 cpt/team.php:79
+#: cpt/testimonials.php:79
+msgid "Parent Category"
+msgstr ""
+
+#: cpt/partner.php:80 cpt/project.php:80 cpt/team.php:80
+#: cpt/testimonials.php:80
+msgid "Parent Category:"
+msgstr ""
+
+#: cpt/partner.php:81 cpt/project.php:81 cpt/team.php:81
+#: cpt/testimonials.php:81
+msgid "New Category Name"
+msgstr ""
+
+#: cpt/partner.php:82 cpt/project.php:82 cpt/team.php:82
+#: cpt/testimonials.php:82
+msgid "Add New Category"
+msgstr ""
+
+#: cpt/partner.php:83 cpt/project.php:83 cpt/team.php:83
+#: cpt/testimonials.php:83
+msgid "Edit Category"
+msgstr ""
+
+#: cpt/partner.php:84 cpt/project.php:84 cpt/team.php:84
+#: cpt/testimonials.php:84
+msgid "Update Category"
+msgstr ""
+
+#: cpt/partner.php:85 cpt/project.php:85 cpt/team.php:85
+#: cpt/testimonials.php:85
+msgid "Add or remove categories"
+msgstr ""
+
+#: cpt/partner.php:86 cpt/project.php:86 cpt/team.php:86
+#: cpt/testimonials.php:86
+msgid "Choose from the most used categories"
+msgstr ""
+
+#: cpt/partner.php:87 cpt/project.php:87 cpt/team.php:87
+#: cpt/testimonials.php:87
+msgid "No Category found."
+msgstr ""
+
+#: cpt/project-config.php:22 cpt/project-config.php:23
+#: cpt/project-config.php:85
+msgid "Post Type Editor"
+msgstr ""
+
+#: cpt/project-config.php:67
+msgid "Settings saved."
+msgstr ""
+
+#: cpt/project-config.php:90
+msgid "Main Page"
+msgstr ""
+
+#: cpt/project-config.php:97
+msgid "None"
+msgstr ""
+
+#: cpt/project-config.php:99
+msgid "Used for breadcrumbs."
+msgstr ""
+
+#: cpt/project.php:14
+msgid "Projects"
+msgstr ""
+
+#: cpt/project.php:15
+msgid "Project Item"
+msgstr ""
+
+#: cpt/project.php:49 cpt/project.php:52
+msgid "Project updated."
+msgstr ""
+
+#: cpt/project.php:53
+#, php-format
+msgid "Project restored to revision from %s"
+msgstr ""
+
+#: cpt/project.php:54
+msgid "Project published."
+msgstr ""
+
+#: cpt/project.php:55
+msgid "Project saved."
+msgstr ""
+
+#: cpt/project.php:56
+msgid "Project submitted."
+msgstr ""
+
+#: cpt/project.php:58
+#, php-format
+msgid "Project scheduled for: <strong>%1$s</strong>."
+msgstr ""
+
+#: cpt/project.php:61
+msgid "Project draft updated."
+msgstr ""
+
+#: cpt/project.php:74
+msgid "Project Categories"
+msgstr ""
+
+#: cpt/team.php:14
+msgid "Members"
+msgstr ""
+
+#: cpt/team.php:15
+msgid "Member Item"
+msgstr ""
+
+#: cpt/team.php:49 cpt/team.php:52
+msgid "Member updated."
+msgstr ""
+
+#: cpt/team.php:53
+#, php-format
+msgid "Member restored to revision from %s"
+msgstr ""
+
+#: cpt/team.php:54
+msgid "Member published."
+msgstr ""
+
+#: cpt/team.php:55
+msgid "Member saved."
+msgstr ""
+
+#: cpt/team.php:56
+msgid "Member submitted."
+msgstr ""
+
+#: cpt/team.php:58
+#, php-format
+msgid "Member scheduled for: <strong>%1$s</strong>."
+msgstr ""
+
+#: cpt/team.php:61
+msgid "Member draft updated."
+msgstr ""
+
+#: cpt/team.php:74
+msgid "Member Categories"
+msgstr ""
+
+#: cpt/testimonials.php:14 vc-map.php:1078
+msgid "Testimonials"
+msgstr ""
+
+#: cpt/testimonials.php:15
+msgid "Testimonials Item"
+msgstr ""
+
+#: cpt/testimonials.php:49 cpt/testimonials.php:52
+msgid "Testimonials updated."
+msgstr ""
+
+#: cpt/testimonials.php:53
+#, php-format
+msgid "Testimonials restored to revision from %s"
+msgstr ""
+
+#: cpt/testimonials.php:54
+msgid "Testimonials published."
+msgstr ""
+
+#: cpt/testimonials.php:55
+msgid "Testimonials saved."
+msgstr ""
+
+#: cpt/testimonials.php:56
+msgid "Testimonials submitted."
+msgstr ""
+
+#: cpt/testimonials.php:58
+#, php-format
+msgid "Testimonials scheduled for: <strong>%1$s</strong>."
+msgstr ""
+
+#: cpt/testimonials.php:61
+msgid "Testimonials draft updated."
+msgstr ""
+
+#: cpt/testimonials.php:74
+msgid "Testimonials Categories"
+msgstr ""
+
+#: shortcodes/news.php:117 vc-map.php:1088 vc-map.php:2229 vc-map.php:2237
+#: vc-map.php:2245 vc-map.php:2253 vc-map.php:3540 vc-map.php:3560
+#: vc-map.php:3684 vc-map.php:4961 vc-map.php:4964 vc-map.php:4973
+#: vc-map.php:7714 vc-map.php:8624 vc-map.php:8901
+msgid "Image"
+msgstr ""
+
+#: shortcodes/news.php:124 widgets/recentposts.php:123
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: shortcodes/news.php:130
+msgid "0 comment"
+msgstr ""
+
+#: shortcodes/news.php:130
+msgid "1 Comment"
+msgstr ""
+
+#: shortcodes/news.php:130
+msgid "% Comments"
+msgstr ""
+
+#: shortcodes/shareicons.php:19
+msgid "Facebook"
+msgstr ""
+
+#: shortcodes/shareicons.php:22
+msgid "Twitter"
+msgstr ""
+
+#: shortcodes/shareicons.php:25
+msgid "Pinterest"
+msgstr ""
+
+#: vc-map.php:120 vc-map.php:1722 vc-map.php:1729 vc-map.php:2827
+#: vc-map.php:2834 vc-map.php:2841 vc-map.php:2848 vc-map.php:2855
+#: vc-map.php:2862 vc-map.php:3116 vc-map.php:3123 vc-map.php:3130
+#: vc-map.php:3137 vc-map.php:3144 vc-map.php:3151 vc-map.php:3515
+#: vc-map.php:3522 vc-map.php:4107 vc-map.php:4114 vc-map.php:4121
+#: vc-map.php:4128 vc-map.php:5703 vc-map.php:5711 vc-map.php:5719
+#: vc-map.php:5727 vc-map.php:5735 vc-map.php:5742 vc-map.php:5749
+#: vc-map.php:5756 vc-map.php:6659 vc-map.php:6666 vc-map.php:6673
+#: vc-map.php:6680 vc-map.php:6944 vc-map.php:6951 vc-map.php:6959
+#: vc-map.php:6968 vc-map.php:6976 vc-map.php:6983 vc-map.php:6991
+#: vc-map.php:7859 vc-map.php:7866 vc-map.php:8480 vc-map.php:8489
+#: vc-map.php:8496 vc-map.php:8503 vc-map.php:8510 vc-map.php:8517
+#: vc-map.php:9462 vc-map.php:9469 vc-map.php:9476 vc-map.php:10865
+#: vc-map.php:10872
+msgid "Spacing"
+msgstr ""
+
+#: vc-map.php:121
+msgid "Empty space with custom height."
+msgstr ""
+
+#: vc-map.php:125 vc-map.php:164 vc-map.php:403 vc-map.php:490 vc-map.php:773
+#: vc-map.php:1083 vc-map.php:1309 vc-map.php:1342 vc-map.php:1362
+#: vc-map.php:1403 vc-map.php:1743 vc-map.php:1775 vc-map.php:1900
+#: vc-map.php:1925 vc-map.php:2075 vc-map.php:2100 vc-map.php:2399
+#: vc-map.php:2876 vc-map.php:3165 vc-map.php:3536 vc-map.php:3658
+#: vc-map.php:4195 vc-map.php:4318 vc-map.php:4691 vc-map.php:4865
+#: vc-map.php:5823 vc-map.php:5859 vc-map.php:6161 vc-map.php:6264
+#: vc-map.php:6694 vc-map.php:6844 vc-map.php:7254 vc-map.php:7394
+#: vc-map.php:7555 vc-map.php:7886 vc-map.php:7938 vc-map.php:8531
+#: vc-map.php:8620 vc-map.php:8883 vc-map.php:8896 vc-map.php:9014
+#: vc-map.php:9266 vc-map.php:9496 vc-map.php:9545 vc-map.php:9673
+#: vc-map.php:10174 vc-map.php:10342 vc-map.php:10465 vc-map.php:10607
+#: vc-map.php:10650 vc-map.php:10886 vc-map.php:11046 vc-map.php:11273
+#: vc-map.php:11321 vc-map.php:11361 vc-map.php:11563
+msgid "WPRT VC Addons"
+msgstr ""
+
+#: vc-map.php:130
+msgid "Desktop: Height"
+msgstr ""
+
+#: vc-map.php:136
+msgid "Mobile: Height"
+msgstr ""
+
+#: vc-map.php:142
+msgid "Small Mobile: Height"
+msgstr ""
+
+#: vc-map.php:156
+msgid "Carousel Box"
+msgstr ""
+
+#: vc-map.php:157 vc-map.php:396
+msgid "Scrolling anything."
+msgstr ""
+
+#: vc-map.php:169 vc-map.php:1465 vc-map.php:2460 vc-map.php:10497
+#: vc-map.php:11067 vc-map.php:11383
+msgid "Item: Auto Scroll?"
+msgstr ""
+
+#: vc-map.php:176 vc-map.php:187 vc-map.php:195 vc-map.php:863 vc-map.php:871
+#: vc-map.php:880 vc-map.php:886 vc-map.php:1444 vc-map.php:1451
+#: vc-map.php:1459 vc-map.php:2441 vc-map.php:2448 vc-map.php:2456
+#: vc-map.php:2467 vc-map.php:2478 vc-map.php:2918 vc-map.php:2925
+#: vc-map.php:2933 vc-map.php:2940 vc-map.php:10504 vc-map.php:10515
+#: vc-map.php:10523 vc-map.php:11092 vc-map.php:11099 vc-map.php:11369
+#: vc-map.php:11377
+msgid "Query"
+msgstr ""
+
+#: vc-map.php:180 vc-map.php:2471 vc-map.php:10508 vc-map.php:11077
+msgid "Item: Infinity Loop?"
+msgstr ""
+
+#: vc-map.php:188 vc-map.php:589 vc-map.php:2479 vc-map.php:10516
+#: vc-map.php:11084
+msgid "Duplicate last and first items to get loop illusion."
+msgstr ""
+
+#: vc-map.php:192 vc-map.php:418 vc-map.php:10520
+msgid "Item: Spacing Between"
+msgstr ""
+
+#: vc-map.php:200 vc-map.php:451 vc-map.php:604 vc-map.php:1476 vc-map.php:2484
+#: vc-map.php:11105 vc-map.php:11394
+msgid "Bullets"
+msgstr ""
+
+#: vc-map.php:202 vc-map.php:208 vc-map.php:228 vc-map.php:234 vc-map.php:240
+#: vc-map.php:253 vc-map.php:260 vc-map.php:285 vc-map.php:318 vc-map.php:453
+#: vc-map.php:459 vc-map.php:476 vc-map.php:606 vc-map.php:612 vc-map.php:632
+#: vc-map.php:638 vc-map.php:650 vc-map.php:656 vc-map.php:663 vc-map.php:688
+#: vc-map.php:1472 vc-map.php:1478 vc-map.php:1484 vc-map.php:1504
+#: vc-map.php:1510 vc-map.php:1516 vc-map.php:1528 vc-map.php:1535
+#: vc-map.php:1566 vc-map.php:1597 vc-map.php:2486 vc-map.php:2492
+#: vc-map.php:2512 vc-map.php:2518 vc-map.php:2524 vc-map.php:2536
+#: vc-map.php:2543 vc-map.php:2568 vc-map.php:2601 vc-map.php:10530
+#: vc-map.php:10536 vc-map.php:10548 vc-map.php:11107 vc-map.php:11113
+#: vc-map.php:11133 vc-map.php:11139 vc-map.php:11151 vc-map.php:11157
+#: vc-map.php:11164 vc-map.php:11189 vc-map.php:11390 vc-map.php:11396
+#: vc-map.php:11402 vc-map.php:11422 vc-map.php:11428 vc-map.php:11440
+#: vc-map.php:11446 vc-map.php:11453 vc-map.php:11478
+msgid "Controls"
+msgstr ""
+
+#: vc-map.php:206 vc-map.php:457 vc-map.php:610 vc-map.php:1482 vc-map.php:2490
+#: vc-map.php:11111 vc-map.php:11400
+msgid "Show Bullets?"
+msgstr ""
+
+#: vc-map.php:209 vc-map.php:241 vc-map.php:460 vc-map.php:613 vc-map.php:657
+#: vc-map.php:953 vc-map.php:1103 vc-map.php:1321 vc-map.php:1485
+#: vc-map.php:1517 vc-map.php:1848 vc-map.php:1932 vc-map.php:2493
+#: vc-map.php:2525 vc-map.php:3569 vc-map.php:3718 vc-map.php:3813
+#: vc-map.php:4242 vc-map.php:4368 vc-map.php:4990 vc-map.php:5027
+#: vc-map.php:5397 vc-map.php:5881 vc-map.php:6895 vc-map.php:7311
+#: vc-map.php:7429 vc-map.php:7613 vc-map.php:7894 vc-map.php:7967
+#: vc-map.php:8576 vc-map.php:8632 vc-map.php:8689 vc-map.php:8714
+#: vc-map.php:9525 vc-map.php:9629 vc-map.php:9753 vc-map.php:9760
+#: vc-map.php:10299 vc-map.php:10306 vc-map.php:10493 vc-map.php:10537
+#: vc-map.php:11114 vc-map.php:11158 vc-map.php:11289 vc-map.php:11295
+#: vc-map.php:11301 vc-map.php:11307 vc-map.php:11403 vc-map.php:11447
+msgid "Yes, please."
+msgstr ""
+
+#: vc-map.php:213 vc-map.php:464 vc-map.php:1489 vc-map.php:2497
+msgid "Space between Bullets & Elements"
+msgstr ""
+
+#: vc-map.php:232 vc-map.php:648 vc-map.php:1508 vc-map.php:2516
+#: vc-map.php:10528 vc-map.php:11149 vc-map.php:11438
+msgid "Arrows"
+msgstr ""
+
+#: vc-map.php:238 vc-map.php:654 vc-map.php:1319 vc-map.php:1514
+#: vc-map.php:2522 vc-map.php:10534 vc-map.php:11155 vc-map.php:11444
+msgid "Show Arrows?"
+msgstr ""
+
+#: vc-map.php:245 vc-map.php:1521 vc-map.php:2529 vc-map.php:10541
+msgid "Arrow Position"
+msgstr ""
+
+#: vc-map.php:258 vc-map.php:316 vc-map.php:661 vc-map.php:1533 vc-map.php:1595
+#: vc-map.php:2541 vc-map.php:2599 vc-map.php:11162 vc-map.php:11451
+msgid "Arrows Offset: Horizontal"
+msgstr ""
+
+#: vc-map.php:283 vc-map.php:686 vc-map.php:1564 vc-map.php:2566
+#: vc-map.php:11187 vc-map.php:11476
+msgid "Arrows Offset: Vertical"
+msgstr ""
+
+#: vc-map.php:344 vc-map.php:2627 vc-map.php:10554 vc-map.php:11220
+msgid "Screen > 1000px"
+msgstr ""
+
+#: vc-map.php:346 vc-map.php:362 vc-map.php:376 vc-map.php:722 vc-map.php:738
+#: vc-map.php:752 vc-map.php:1026 vc-map.php:1040 vc-map.php:1052
+#: vc-map.php:1064 vc-map.php:1625 vc-map.php:1641 vc-map.php:1655
+#: vc-map.php:2629 vc-map.php:2644 vc-map.php:2658 vc-map.php:2947
+#: vc-map.php:10556 vc-map.php:10572 vc-map.php:10586 vc-map.php:11222
+#: vc-map.php:11238 vc-map.php:11252 vc-map.php:11512 vc-map.php:11528
+#: vc-map.php:11542
+msgid "Columns"
+msgstr ""
+
+#: vc-map.php:360 vc-map.php:2642 vc-map.php:10570 vc-map.php:11236
+msgid "Screen from 600px to 1000px"
+msgstr ""
+
+#: vc-map.php:374 vc-map.php:2656 vc-map.php:10584 vc-map.php:11250
+msgid "Screen < 600px"
+msgstr ""
+
+#: vc-map.php:395
+msgid "Center Carousel Box"
+msgstr ""
+
+#: vc-map.php:408 vc-map.php:561
+msgid "Auto Scroll?"
+msgstr ""
+
+#: vc-map.php:433
+msgid "Slide Show"
+msgstr ""
+
+#: vc-map.php:443
+msgid "Padding Content"
+msgstr ""
+
+#: vc-map.php:485
+msgid "Portfolio Carousel"
+msgstr ""
+
+#: vc-map.php:486
+msgid "Displaying project posts in carousel."
+msgstr ""
+
+#: vc-map.php:494 vc-map.php:795 vc-map.php:4911
+msgid "Wrap Margin"
+msgstr ""
+
+#: vc-map.php:497 vc-map.php:798 vc-map.php:6967 vc-map.php:6975
+#: vc-map.php:6984 vc-map.php:6992
+#, php-format
+msgid "Top Right Bottom Left. You can use % or px value."
+msgstr ""
+
+#: vc-map.php:501 vc-map.php:812 vc-map.php:2424 vc-map.php:2901
+#: vc-map.php:10356 vc-map.php:10469
+msgid "Image Cropping"
+msgstr ""
+
+#: vc-map.php:517 vc-map.php:829
+msgid "Image Rounded?"
+msgstr ""
+
+#: vc-map.php:527 vc-map.php:839 vc-map.php:2012 vc-map.php:2122
+#: vc-map.php:3702
+msgid "Content Padding"
+msgstr ""
+
+#: vc-map.php:530
+msgid "Top Right Bottom Left.  Default: 0px 58px 0px 58px."
+msgstr ""
+
+#: vc-map.php:534 vc-map.php:846 vc-map.php:2453 vc-map.php:2930
+#: vc-map.php:9583 vc-map.php:10385 vc-map.php:11061
+msgid "Spacing between items"
+msgstr ""
+
+#: vc-map.php:537 vc-map.php:849 vc-map.php:856
+msgid "Ex: 30"
+msgstr ""
+
+#: vc-map.php:541 vc-map.php:861
+msgid "Posts Per Page"
+msgstr ""
+
+#: vc-map.php:547 vc-map.php:868 vc-map.php:1448 vc-map.php:2445
+#: vc-map.php:2922
+msgid "Category Slug (Optional)"
+msgstr ""
+
+#: vc-map.php:550 vc-map.php:872 vc-map.php:1452
+msgid "Displaying posts that have this category. Using category-slug."
+msgstr ""
+
+#: vc-map.php:554 vc-map.php:876
+msgid "Exclude Category Slug (Optional)"
+msgstr ""
+
+#: vc-map.php:557 vc-map.php:879
+msgid "Exclude posts that have this category. Using category-slug."
+msgstr ""
+
+#: vc-map.php:571
+msgid "Center Mode?"
+msgstr ""
+
+#: vc-map.php:582
+msgid "Infinity Loop?"
+msgstr ""
+
+#: vc-map.php:593
+msgid "Show hidden items with opacity?"
+msgstr ""
+
+#: vc-map.php:617 vc-map.php:11118 vc-map.php:11407
+msgid "Space between Bullets & Images"
+msgstr ""
+
+#: vc-map.php:636 vc-map.php:11137 vc-map.php:11426
+msgid "Bullets Show"
+msgstr ""
+
+#: vc-map.php:720 vc-map.php:1623 vc-map.php:11510
+msgid "Screen > 1000px."
+msgstr ""
+
+#: vc-map.php:736 vc-map.php:1639 vc-map.php:11526
+msgid "Screen from 600px to 1000px."
+msgstr ""
+
+#: vc-map.php:750 vc-map.php:1653 vc-map.php:11540
+msgid "Screen < 600px."
+msgstr ""
+
+#: vc-map.php:768
+msgid "Portfolio Grid"
+msgstr ""
+
+#: vc-map.php:769
+msgid "Displaying project posts in grid with filter bar."
+msgstr ""
+
+#: vc-map.php:777 vc-map.php:1407 vc-map.php:2080 vc-map.php:2403
+#: vc-map.php:2880 vc-map.php:3662 vc-map.php:3818 vc-map.php:4199
+#: vc-map.php:4869 vc-map.php:5402 vc-map.php:5828 vc-map.php:5863
+#: vc-map.php:7942 vc-map.php:8546 vc-map.php:8802 vc-map.php:11050
+#: vc-map.php:11277 vc-map.php:11325
+msgid "Style"
+msgstr ""
+
+#: vc-map.php:788
+msgid "Text on Hover"
+msgstr ""
+
+#: vc-map.php:802 vc-map.php:10197
+msgid "Showcase"
+msgstr ""
+
+#: vc-map.php:825
+msgid "Choose <Default> to use Image-Cropping from metabox."
+msgstr ""
+
+#: vc-map.php:842
+msgid "Top Right Bottom Left. Default: 0px 58px 0px 58px."
+msgstr ""
+
+#: vc-map.php:853 vc-map.php:2937 vc-map.php:9605 vc-map.php:10391
+msgid "Spacing below items"
+msgstr ""
+
+#: vc-map.php:884
+msgid "Show Pagination?"
+msgstr ""
+
+#: vc-map.php:896
+msgid "Show Filter Bar?"
+msgstr ""
+
+#: vc-map.php:898 vc-map.php:910 vc-map.php:920 vc-map.php:933 vc-map.php:940
+#: vc-map.php:952 vc-map.php:961
+msgid "Filter"
+msgstr ""
+
+#: vc-map.php:907
+msgid "Button: All"
+msgstr ""
+
+#: vc-map.php:911
+msgid "Leave it empty to disable."
+msgstr ""
+
+#: vc-map.php:916 vc-map.php:1825 vc-map.php:1956 vc-map.php:4359
+#: vc-map.php:4731 vc-map.php:7302
+msgid "Bottom Margin"
+msgstr ""
+
+#: vc-map.php:919
+msgid "Ex: 45px."
+msgstr ""
+
+#: vc-map.php:925
+msgid "Filter Alignment"
+msgstr ""
+
+#: vc-map.php:938
+msgid "Show Counter?"
+msgstr ""
+
+#: vc-map.php:950
+msgid "Filter posts by default?"
+msgstr ""
+
+#: vc-map.php:958 vc-map.php:11096
+msgid "Category Slug"
+msgstr ""
+
+#: vc-map.php:963
+msgid "Filter posts from this category by default. Using category-slug."
+msgstr ""
+
+#: vc-map.php:968
+msgid "Filter: Font Family"
+msgstr ""
+
+#: vc-map.php:971 vc-map.php:988 vc-map.php:995 vc-map.php:1002 vc-map.php:1009
+#: vc-map.php:1020 vc-map.php:1157 vc-map.php:1164 vc-map.php:1181
+#: vc-map.php:1188 vc-map.php:1199 vc-map.php:1206 vc-map.php:1212
+#: vc-map.php:1219 vc-map.php:1236 vc-map.php:1243 vc-map.php:1250
+#: vc-map.php:1256 vc-map.php:1263 vc-map.php:1280 vc-map.php:1287
+#: vc-map.php:1294 vc-map.php:1669 vc-map.php:1676 vc-map.php:1693
+#: vc-map.php:1700 vc-map.php:1707 vc-map.php:1714 vc-map.php:1856
+#: vc-map.php:1873 vc-map.php:1880 vc-map.php:2024 vc-map.php:2041
+#: vc-map.php:2048 vc-map.php:2055 vc-map.php:2134 vc-map.php:2151
+#: vc-map.php:2158 vc-map.php:2165 vc-map.php:2672 vc-map.php:2679
+#: vc-map.php:2696 vc-map.php:2703 vc-map.php:2710 vc-map.php:2717
+#: vc-map.php:2723 vc-map.php:2730 vc-map.php:2747 vc-map.php:2754
+#: vc-map.php:2761 vc-map.php:2768 vc-map.php:2774 vc-map.php:2781
+#: vc-map.php:2798 vc-map.php:2805 vc-map.php:2812 vc-map.php:2819
+#: vc-map.php:2961 vc-map.php:2968 vc-map.php:2985 vc-map.php:2992
+#: vc-map.php:2999 vc-map.php:3006 vc-map.php:3012 vc-map.php:3019
+#: vc-map.php:3036 vc-map.php:3043 vc-map.php:3050 vc-map.php:3057
+#: vc-map.php:3063 vc-map.php:3070 vc-map.php:3087 vc-map.php:3094
+#: vc-map.php:3101 vc-map.php:3108 vc-map.php:3381 vc-map.php:3388
+#: vc-map.php:3405 vc-map.php:3412 vc-map.php:3419 vc-map.php:3425
+#: vc-map.php:3432 vc-map.php:3449 vc-map.php:3456 vc-map.php:3463
+#: vc-map.php:3469 vc-map.php:3476 vc-map.php:3493 vc-map.php:3500
+#: vc-map.php:3507 vc-map.php:3606 vc-map.php:3613 vc-map.php:3630
+#: vc-map.php:3637 vc-map.php:3644 vc-map.php:3980 vc-map.php:3987
+#: vc-map.php:4004 vc-map.php:4011 vc-map.php:4018 vc-map.php:4024
+#: vc-map.php:4031 vc-map.php:4048 vc-map.php:4055 vc-map.php:4062
+#: vc-map.php:4068 vc-map.php:4075 vc-map.php:4092 vc-map.php:4099
+#: vc-map.php:4280 vc-map.php:4297 vc-map.php:4304 vc-map.php:4646
+#: vc-map.php:4663 vc-map.php:4670 vc-map.php:4677 vc-map.php:4783
+#: vc-map.php:4790 vc-map.php:4807 vc-map.php:4814 vc-map.php:4820
+#: vc-map.php:4827 vc-map.php:4844 vc-map.php:4851 vc-map.php:5569
+#: vc-map.php:5576 vc-map.php:5593 vc-map.php:5600 vc-map.php:5607
+#: vc-map.php:5613 vc-map.php:5620 vc-map.php:5637 vc-map.php:5644
+#: vc-map.php:5651 vc-map.php:5657 vc-map.php:5664 vc-map.php:5681
+#: vc-map.php:5688 vc-map.php:5695 vc-map.php:6525 vc-map.php:6532
+#: vc-map.php:6549 vc-map.php:6556 vc-map.php:6563 vc-map.php:6569
+#: vc-map.php:6576 vc-map.php:6593 vc-map.php:6600 vc-map.php:6607
+#: vc-map.php:6613 vc-map.php:6620 vc-map.php:6637 vc-map.php:6644
+#: vc-map.php:6651 vc-map.php:7349 vc-map.php:7366 vc-map.php:7373
+#: vc-map.php:7380 vc-map.php:7503 vc-map.php:7510 vc-map.php:7527
+#: vc-map.php:7534 vc-map.php:7541 vc-map.php:7733 vc-map.php:7748
+#: vc-map.php:7755 vc-map.php:7772 vc-map.php:7779 vc-map.php:7786
+#: vc-map.php:7793 vc-map.php:7800 vc-map.php:7806 vc-map.php:7813
+#: vc-map.php:7830 vc-map.php:7837 vc-map.php:7844 vc-map.php:7851
+#: vc-map.php:8367 vc-map.php:8375 vc-map.php:8392 vc-map.php:8399
+#: vc-map.php:8406 vc-map.php:8413 vc-map.php:8420 vc-map.php:8426
+#: vc-map.php:8434 vc-map.php:8451 vc-map.php:8458 vc-map.php:8465
+#: vc-map.php:8472 vc-map.php:10123 vc-map.php:10140 vc-map.php:10147
+#: vc-map.php:10154 vc-map.php:10719 vc-map.php:10726 vc-map.php:10743
+#: vc-map.php:10750 vc-map.php:10761 vc-map.php:10767 vc-map.php:10774
+#: vc-map.php:10791 vc-map.php:10798 vc-map.php:10809 vc-map.php:10815
+#: vc-map.php:10822 vc-map.php:10839 vc-map.php:10846 vc-map.php:10857
+#: vc-map.php:10991 vc-map.php:10998 vc-map.php:11015 vc-map.php:11023
+#: vc-map.php:11032
+msgid "Typography"
+msgstr ""
+
+#: vc-map.php:975
+msgid "Filter: Font Weight"
+msgstr ""
+
+#: vc-map.php:992
+msgid "Filter: Font Size"
+msgstr ""
+
+#: vc-map.php:999
+msgid "Filter: Line-Height"
+msgstr ""
+
+#: vc-map.php:1006
+msgid "Filter: Letter Spacing"
+msgstr ""
+
+#: vc-map.php:1013
+msgid "Filter: Text Transform"
+msgstr ""
+
+#: vc-map.php:1024
+msgid "If Wrap > 1100px"
+msgstr ""
+
+#: vc-map.php:1038
+msgid "If Wrap from 800px to 1099px"
+msgstr ""
+
+#: vc-map.php:1050
+msgid "If Wrap from 550px to 799px"
+msgstr ""
+
+#: vc-map.php:1062
+msgid "If Wrap < 549px"
+msgstr ""
+
+#: vc-map.php:1079
+msgid "Displaying testimonials."
+msgstr ""
+
+#: vc-map.php:1094 vc-map.php:7722 vc-map.php:8672
+msgid "Image Width (Optional)"
+msgstr ""
+
+#: vc-map.php:1097
+msgid "Ex: 70px."
+msgstr ""
+
+#: vc-map.php:1101
+msgid "Box Shadow?"
+msgstr ""
+
+#: vc-map.php:1108 vc-map.php:1111 vc-map.php:1118 vc-map.php:1155
+#: vc-map.php:2772 vc-map.php:3061 vc-map.php:4738 vc-map.php:4745
+#: vc-map.php:4781 vc-map.php:9678
+msgid "Text"
+msgstr ""
+
+#: vc-map.php:1115 vc-map.php:1787 vc-map.php:2802 vc-map.php:3091
+#: vc-map.php:9695 vc-map.php:10957
+msgid "Text Color"
+msgstr ""
+
+#: vc-map.php:1124 vc-map.php:1210 vc-map.php:2670 vc-map.php:2959
+msgid "Name"
+msgstr ""
+
+#: vc-map.php:1127 vc-map.php:1134 vc-map.php:1143 vc-map.php:1150
+msgid "Name & Position"
+msgstr ""
+
+#: vc-map.php:1131 vc-map.php:2700 vc-map.php:2989
+msgid "Name Color"
+msgstr ""
+
+#: vc-map.php:1140 vc-map.php:1254 vc-map.php:2721 vc-map.php:3010
+msgid "Position"
+msgstr ""
+
+#: vc-map.php:1147 vc-map.php:2751 vc-map.php:3040
+msgid "Position Color"
+msgstr ""
+
+#: vc-map.php:1161 vc-map.php:2778 vc-map.php:3067
+msgid "Text Font Family"
+msgstr ""
+
+#: vc-map.php:1168 vc-map.php:2785 vc-map.php:3074
+msgid "Text Font Weight"
+msgstr ""
+
+#: vc-map.php:1185 vc-map.php:2809 vc-map.php:3098
+msgid "Text Font Size"
+msgstr ""
+
+#: vc-map.php:1192
+msgid "Text Font Style"
+msgstr ""
+
+#: vc-map.php:1203
+msgid "Text Line-height"
+msgstr ""
+
+#: vc-map.php:1216 vc-map.php:2676 vc-map.php:2965
+msgid "Name Font Family"
+msgstr ""
+
+#: vc-map.php:1223 vc-map.php:2683 vc-map.php:2972
+msgid "Name Font Weight"
+msgstr ""
+
+#: vc-map.php:1240 vc-map.php:2707 vc-map.php:2996
+msgid "Name Font Size"
+msgstr ""
+
+#: vc-map.php:1247
+msgid "Name Line-height"
+msgstr ""
+
+#: vc-map.php:1260 vc-map.php:2727 vc-map.php:3016
+msgid "Position Font Family"
+msgstr ""
+
+#: vc-map.php:1267 vc-map.php:2734 vc-map.php:3023
+msgid "Position Font Weight"
+msgstr ""
+
+#: vc-map.php:1284 vc-map.php:2758 vc-map.php:3047
+msgid "Position Font Size"
+msgstr ""
+
+#: vc-map.php:1291
+msgid "Position Line-height"
+msgstr ""
+
+#: vc-map.php:1303
+msgid "Testimonials Box"
+msgstr ""
+
+#: vc-map.php:1304 vc-map.php:1338
+msgid "Displaying testimonials posts."
+msgstr ""
+
+#: vc-map.php:1313 vc-map.php:1346 vc-map.php:1441 vc-map.php:2438
+#: vc-map.php:2915 vc-map.php:11089
+msgid "Number of items"
+msgstr ""
+
+#: vc-map.php:1325 vc-map.php:1427
+msgid "Content Padding."
+msgstr ""
+
+#: vc-map.php:1328
+msgid "Top Right Bottom Left. Ex: 65px 70px 65px 70px"
+msgstr ""
+
+#: vc-map.php:1337
+msgid "Testimonials Group"
+msgstr ""
+
+#: vc-map.php:1357
+msgid "Contact Form 7 (Styled)"
+msgstr ""
+
+#: vc-map.php:1358
+msgid "Displaying Contact Form 7 with special style"
+msgstr ""
+
+#: vc-map.php:1366
+msgid "Form"
+msgstr ""
+
+#: vc-map.php:1373
+msgid "Input Background"
+msgstr ""
+
+#: vc-map.php:1383 vc-map.php:3275 vc-map.php:3282 vc-map.php:3293
+#: vc-map.php:3305 vc-map.php:3313 vc-map.php:3320 vc-map.php:3327
+#: vc-map.php:3334 vc-map.php:3346 vc-map.php:3353 vc-map.php:3360
+#: vc-map.php:3367 vc-map.php:3374 vc-map.php:3467 vc-map.php:4066
+#: vc-map.php:5655 vc-map.php:6407 vc-map.php:6415 vc-map.php:6427
+#: vc-map.php:6440 vc-map.php:6448 vc-map.php:6456 vc-map.php:6464
+#: vc-map.php:6472 vc-map.php:6480 vc-map.php:6493 vc-map.php:6501
+#: vc-map.php:6509 vc-map.php:6517
+msgid "Button"
+msgstr ""
+
+#: vc-map.php:1398
+msgid "News Carousel"
+msgstr ""
+
+#: vc-map.php:1399
+msgid "Displaying blog posts in carousel."
+msgstr ""
+
+#: vc-map.php:1417
+msgid "Thumbnail Image"
+msgstr ""
+
+#: vc-map.php:1430
+msgid "Top Right Bottom Left. Ex: 20px 17px 30px 17px"
+msgstr ""
+
+#: vc-map.php:1434 vc-map.php:3709
+msgid "Content Background"
+msgstr ""
+
+#: vc-map.php:1456 vc-map.php:11374
+msgid "Item: Space Between"
+msgstr ""
+
+#: vc-map.php:1460 vc-map.php:11378
+msgid "Important! Include the blur distance of the shadow."
+msgstr ""
+
+#: vc-map.php:1667 vc-map.php:1976 vc-map.php:1981 vc-map.php:1984
+#: vc-map.php:1992 vc-map.php:2000 vc-map.php:3206 vc-map.php:3379
+#: vc-map.php:3548 vc-map.php:3604 vc-map.php:3753 vc-map.php:3775
+#: vc-map.php:3978 vc-map.php:5358 vc-map.php:5567 vc-map.php:5928
+#: vc-map.php:6216 vc-map.php:6336 vc-map.php:6339 vc-map.php:6346
+#: vc-map.php:6523 vc-map.php:6718 vc-map.php:7501 vc-map.php:7731
+#: vc-map.php:8339 vc-map.php:8344 vc-map.php:8346 vc-map.php:8353
+#: vc-map.php:8360
+msgid "Heading"
+msgstr ""
+
+#: vc-map.php:1673 vc-map.php:2021 vc-map.php:3385 vc-map.php:3610
+#: vc-map.php:3984 vc-map.php:5573 vc-map.php:6529
+msgid "Heading Font Family"
+msgstr ""
+
+#: vc-map.php:1680 vc-map.php:2028 vc-map.php:3392 vc-map.php:3617
+#: vc-map.php:3991 vc-map.php:5580 vc-map.php:6536
+msgid "Heading Font Weight"
+msgstr ""
+
+#: vc-map.php:1697 vc-map.php:3235 vc-map.php:3554 vc-map.php:3782
+#: vc-map.php:5372 vc-map.php:5934 vc-map.php:6222 vc-map.php:6343
+#: vc-map.php:7414 vc-map.php:7590 vc-map.php:8350
+msgid "Heading Color"
+msgstr ""
+
+#: vc-map.php:1704 vc-map.php:2045 vc-map.php:3409 vc-map.php:3634
+#: vc-map.php:4008 vc-map.php:5597 vc-map.php:6553
+msgid "Heading Font Size"
+msgstr ""
+
+#: vc-map.php:1711 vc-map.php:2052 vc-map.php:3416 vc-map.php:3641
+#: vc-map.php:4015 vc-map.php:5604 vc-map.php:6560
+msgid "Heading Line-Height"
+msgstr ""
+
+#: vc-map.php:1719 vc-map.php:4104 vc-map.php:5732 vc-map.php:7856
+#: vc-map.php:8507
+msgid "Heading: Top Margin"
+msgstr ""
+
+#: vc-map.php:1726 vc-map.php:4111 vc-map.php:5739 vc-map.php:7420
+#: vc-map.php:7863 vc-map.php:8514
+msgid "Heading: Bottom Margin"
+msgstr ""
+
+#: vc-map.php:1738
+msgid "App Carousel"
+msgstr ""
+
+#: vc-map.php:1739
+msgid "Displaying app carousel."
+msgstr ""
+
+#: vc-map.php:1747 vc-map.php:10371 vc-map.php:10484
+msgid "Images"
+msgstr ""
+
+#: vc-map.php:1750
+msgid "Choose multi-images for Carousel."
+msgstr ""
+
+#: vc-map.php:1754
+msgid "Auto Play?"
+msgstr ""
+
+#: vc-map.php:1761
+msgid "Carousel Option"
+msgstr ""
+
+#: vc-map.php:1770
+msgid "Progress Bar"
+msgstr ""
+
+#: vc-map.php:1771
+msgid "Displaying progress bars."
+msgstr ""
+
+#: vc-map.php:1780 vc-map.php:1782 vc-map.php:2107 vc-map.php:2110
+#: widgets/information.php:105 widgets/links.php:205
+msgid "Title"
+msgstr ""
+
+#: vc-map.php:1783
+msgid "Title of the ProgressBar."
+msgstr ""
+
+#: vc-map.php:1793
+msgid "Percentage"
+msgstr ""
+
+#: vc-map.php:1796
+msgid "Percentage value of the ProgressBar"
+msgstr ""
+
+#: vc-map.php:1800
+msgid "Percentage Color"
+msgstr ""
+
+#: vc-map.php:1806
+msgid "Height of Bars"
+msgstr ""
+
+#: vc-map.php:1812
+msgid "Space between Text & Line"
+msgstr ""
+
+#: vc-map.php:1818 vc-map.php:1996 vc-map.php:7043 vc-map.php:7049
+#: vc-map.php:7156 vc-map.php:7162 vc-map.php:9160 vc-map.php:9730
+msgid "Rounded"
+msgstr ""
+
+#: vc-map.php:1821 vc-map.php:8917
+msgid "Ex: 5px"
+msgstr ""
+
+#: vc-map.php:1828
+msgid "Ex: 20px"
+msgstr ""
+
+#: vc-map.php:1832
+msgid "Line 1"
+msgstr ""
+
+#: vc-map.php:1835 vc-map.php:1842 vc-map.php:1849 vc-map.php:5897
+#: vc-map.php:7477 vc-map.php:7705
+msgid "Line Color"
+msgstr ""
+
+#: vc-map.php:1839
+msgid "Line 2"
+msgstr ""
+
+#: vc-map.php:1846
+msgid "Enable gradient color?"
+msgstr ""
+
+#: vc-map.php:1853 vc-map.php:4277 vc-map.php:7346 vc-map.php:10120
+#: vc-map.php:10995
+msgid "Font Family"
+msgstr ""
+
+#: vc-map.php:1860 vc-map.php:4284 vc-map.php:7353 vc-map.php:10127
+#: vc-map.php:11002
+msgid "Font Weight"
+msgstr ""
+
+#: vc-map.php:1877 vc-map.php:4301 vc-map.php:7370 vc-map.php:9132
+#: vc-map.php:10144
+msgid "Font Size"
+msgstr ""
+
+#: vc-map.php:1892
+msgid "Accordions or Toggles"
+msgstr ""
+
+#: vc-map.php:1893
+msgid "Displaying Accordions or Toggles"
+msgstr ""
+
+#: vc-map.php:1905
+msgid "Type"
+msgstr ""
+
+#: vc-map.php:1920 vc-map.php:8891
+msgid "Item"
+msgstr ""
+
+#: vc-map.php:1921
+msgid "Item for Accordions or Toggles"
+msgstr ""
+
+#: vc-map.php:1930
+msgid "Active by default?"
+msgstr ""
+
+#: vc-map.php:1936 vc-map.php:4216 vc-map.php:4752 vc-map.php:4773
+#: vc-map.php:7290 vc-map.php:9168 vc-map.php:10617
+msgid "Color"
+msgstr ""
+
+#: vc-map.php:1950 vc-map.php:5782 vc-map.php:6291 vc-map.php:6849
+msgid "Background Image"
+msgstr ""
+
+#: vc-map.php:1960
+msgid "Default: 10px"
+msgstr ""
+
+#: vc-map.php:1965 vc-map.php:3212 vc-map.php:3759 vc-map.php:5342
+#: vc-map.php:7737 vc-map.php:8327
+msgid "Heading Tag"
+msgstr ""
+
+#: vc-map.php:1988
+msgid "Heading Padding"
+msgstr ""
+
+#: vc-map.php:1991
+msgid "Top Right Bottom Left. Ex: 13px 25px 13px 25px"
+msgstr ""
+
+#: vc-map.php:1999
+msgid "Ex: 25px"
+msgstr ""
+
+#: vc-map.php:2005 vc-map.php:2008 vc-map.php:2016 vc-map.php:2115
+#: vc-map.php:2118 vc-map.php:2126 vc-map.php:3208 vc-map.php:3223
+#: vc-map.php:3231 vc-map.php:3238 vc-map.php:3245 vc-map.php:3252
+#: vc-map.php:3259 vc-map.php:3266 vc-map.php:3755 vc-map.php:3770
+#: vc-map.php:3778 vc-map.php:3785 vc-map.php:3791 vc-map.php:3799
+#: vc-map.php:3806 vc-map.php:4620 vc-map.php:4622 vc-map.php:4629
+#: vc-map.php:4636 vc-map.php:4740 vc-map.php:4748 vc-map.php:4755
+#: vc-map.php:4761 vc-map.php:4769 vc-map.php:4776 vc-map.php:5353
+#: vc-map.php:5361 vc-map.php:5368 vc-map.php:5375 vc-map.php:5383
+#: vc-map.php:5390 vc-map.php:6396 vc-map.php:6399 vc-map.php:7284
+msgid "Content"
+msgstr ""
+
+#: vc-map.php:2015
+msgid "Top Right Bottom Left. Ex: 20px 0px 30px 0px"
+msgstr ""
+
+#: vc-map.php:2067
+msgid "Simple Tabs"
+msgstr ""
+
+#: vc-map.php:2068
+msgid "Displaying Tabbed Content."
+msgstr ""
+
+#: vc-map.php:2095
+msgid "Tab"
+msgstr ""
+
+#: vc-map.php:2096
+msgid "Displaying Tab."
+msgstr ""
+
+#: vc-map.php:2125 vc-map.php:3705 vc-map.php:4907 vc-map.php:4914
+#: vc-map.php:9747
+msgid "Top Right Bottom Left."
+msgstr ""
+
+#: vc-map.php:2131
+msgid "Title Font Family"
+msgstr ""
+
+#: vc-map.php:2138
+msgid "Title Font Weight"
+msgstr ""
+
+#: vc-map.php:2155
+msgid "Title Font Size"
+msgstr ""
+
+#: vc-map.php:2162
+msgid "Title Line-Height"
+msgstr ""
+
+#: vc-map.php:2177
+msgid "Advanced Tabs"
+msgstr ""
+
+#: vc-map.php:2195
+msgid "Child Tab"
+msgstr ""
+
+#: vc-map.php:2208
+msgid "Tab Title"
+msgstr ""
+
+#: vc-map.php:2214
+msgid "Icon Type"
+msgstr ""
+
+#: vc-map.php:2224
+msgid "Custom Image"
+msgstr ""
+
+#: vc-map.php:2232
+msgid "Custom Image on Hover"
+msgstr ""
+
+#: vc-map.php:2240 vc-map.php:3690 vc-map.php:4969 vc-map.php:8907
+msgid "Image Width"
+msgstr ""
+
+#: vc-map.php:2248
+msgid "Image Height"
+msgstr ""
+
+#: vc-map.php:2258 vc-map.php:4403 vc-map.php:5040 vc-map.php:5965
+#: vc-map.php:6174 vc-map.php:8002 vc-map.php:9019 vc-map.php:9326
+#: vc-map.php:9837
+msgid "Icon library"
+msgstr ""
+
+#: vc-map.php:2260 vc-map.php:4405 vc-map.php:5042 vc-map.php:5967
+#: vc-map.php:6176 vc-map.php:8004 vc-map.php:9021 vc-map.php:9328
+#: vc-map.php:9839
+msgid "Select icon library."
+msgstr ""
+
+#: vc-map.php:2263 vc-map.php:5047 vc-map.php:8009
+msgid "Elegant Icons"
+msgstr ""
+
+#: vc-map.php:2264
+msgid "Basic UI Icons"
+msgstr ""
+
+#: vc-map.php:2265 vc-map.php:4410 vc-map.php:5048 vc-map.php:8010
+#: vc-map.php:9026 vc-map.php:9844
+msgid "FontAwesome"
+msgstr ""
+
+#: vc-map.php:2266 vc-map.php:4411 vc-map.php:5049 vc-map.php:5972
+#: vc-map.php:8011 vc-map.php:9027 vc-map.php:9333 vc-map.php:9845
+msgid "Open Iconic"
+msgstr ""
+
+#: vc-map.php:2267 vc-map.php:4412 vc-map.php:5050 vc-map.php:5973
+#: vc-map.php:8012 vc-map.php:9028 vc-map.php:9334 vc-map.php:9846
+msgid "Typicons"
+msgstr ""
+
+#: vc-map.php:2268 vc-map.php:4413 vc-map.php:5051 vc-map.php:5974
+#: vc-map.php:8013 vc-map.php:9029 vc-map.php:9335 vc-map.php:9847
+msgid "Entypo"
+msgstr ""
+
+#: vc-map.php:2269 vc-map.php:4414 vc-map.php:5052 vc-map.php:5975
+#: vc-map.php:8014 vc-map.php:9030 vc-map.php:9336 vc-map.php:9848
+msgid "Linecons"
+msgstr ""
+
+#: vc-map.php:2271 vc-map.php:2276 vc-map.php:2287 vc-map.php:2291
+#: vc-map.php:2302 vc-map.php:2306 vc-map.php:2316 vc-map.php:2320
+#: vc-map.php:2331 vc-map.php:2335 vc-map.php:2346 vc-map.php:2350
+#: vc-map.php:2361 vc-map.php:2365 vc-map.php:2376 vc-map.php:2383
+#: vc-map.php:4416 vc-map.php:4420 vc-map.php:4431 vc-map.php:4435
+#: vc-map.php:4446 vc-map.php:4450 vc-map.php:4460 vc-map.php:4464
+#: vc-map.php:4475 vc-map.php:4479 vc-map.php:4490 vc-map.php:4494
+#: vc-map.php:4505 vc-map.php:4509 vc-map.php:4520 vc-map.php:4531
+#: vc-map.php:4538 vc-map.php:4549 vc-map.php:4556 vc-map.php:4567
+#: vc-map.php:4578 vc-map.php:4589 vc-map.php:4596 vc-map.php:4607
+#: vc-map.php:4614 vc-map.php:4982 vc-map.php:5028 vc-map.php:5035
+#: vc-map.php:5054 vc-map.php:5059 vc-map.php:5070 vc-map.php:5074
+#: vc-map.php:5085 vc-map.php:5089 vc-map.php:5100 vc-map.php:5104
+#: vc-map.php:5117 vc-map.php:5128 vc-map.php:5132 vc-map.php:5143
+#: vc-map.php:5147 vc-map.php:5158 vc-map.php:5162 vc-map.php:5173
+#: vc-map.php:5180 vc-map.php:5188 vc-map.php:5196 vc-map.php:5204
+#: vc-map.php:5213 vc-map.php:5221 vc-map.php:5229 vc-map.php:5237
+#: vc-map.php:5246 vc-map.php:5259 vc-map.php:5267 vc-map.php:5275
+#: vc-map.php:5283 vc-map.php:5296 vc-map.php:5304 vc-map.php:5312
+#: vc-map.php:5320 vc-map.php:5328 vc-map.php:5336 vc-map.php:5980
+#: vc-map.php:5994 vc-map.php:6008 vc-map.php:6022 vc-map.php:6036
+#: vc-map.php:6050 vc-map.php:6185 vc-map.php:6199 vc-map.php:8016
+#: vc-map.php:8021 vc-map.php:8032 vc-map.php:8036 vc-map.php:8047
+#: vc-map.php:8051 vc-map.php:8062 vc-map.php:8066 vc-map.php:8079
+#: vc-map.php:8090 vc-map.php:8094 vc-map.php:8105 vc-map.php:8109
+#: vc-map.php:8120 vc-map.php:8124 vc-map.php:8135 vc-map.php:8142
+#: vc-map.php:8150 vc-map.php:8158 vc-map.php:8166 vc-map.php:8175
+#: vc-map.php:8183 vc-map.php:8191 vc-map.php:8199 vc-map.php:8208
+#: vc-map.php:8221 vc-map.php:8229 vc-map.php:8237 vc-map.php:8245
+#: vc-map.php:9035 vc-map.php:9049 vc-map.php:9063 vc-map.php:9076
+#: vc-map.php:9090 vc-map.php:9104 vc-map.php:9118 vc-map.php:9322
+#: vc-map.php:9338 vc-map.php:9343 vc-map.php:9354 vc-map.php:9358
+#: vc-map.php:9369 vc-map.php:9373 vc-map.php:9384 vc-map.php:9388
+#: vc-map.php:9399 vc-map.php:9403 vc-map.php:9414 vc-map.php:9418
+#: vc-map.php:9429 vc-map.php:9436 vc-map.php:9444 vc-map.php:9452
+#: vc-map.php:9833 vc-map.php:9850 vc-map.php:9855 vc-map.php:9866
+#: vc-map.php:9870 vc-map.php:9881 vc-map.php:9885 vc-map.php:9895
+#: vc-map.php:9899 vc-map.php:9910 vc-map.php:9914 vc-map.php:9925
+#: vc-map.php:9929 vc-map.php:9940 vc-map.php:9944 vc-map.php:9955
+#: vc-map.php:9962 vc-map.php:9970 vc-map.php:9982 vc-map.php:9990
+#: vc-map.php:9999 vc-map.php:10041
+msgid "Icon"
+msgstr ""
+
+#: vc-map.php:2380 vc-map.php:9441
+msgid "Icon: Font Size"
+msgstr ""
+
+#: vc-map.php:2394
+msgid "Team Carousel"
+msgstr ""
+
+#: vc-map.php:2395
+msgid "Displaying member posts in carousel."
+msgstr ""
+
+#: vc-map.php:2413 vc-map.php:2890 vc-map.php:4881 vc-map.php:6268
+#: vc-map.php:10890
+msgid "Text Alignment"
+msgstr ""
+
+#: vc-map.php:2449 vc-map.php:2926
+msgid "Display posts that have this category. Using category-slug."
+msgstr ""
+
+#: vc-map.php:2714 vc-map.php:3003
+msgid "Name Line-Height"
+msgstr ""
+
+#: vc-map.php:2765 vc-map.php:3054
+msgid "Position Line-Height"
+msgstr ""
+
+#: vc-map.php:2816 vc-map.php:3105
+msgid "Text Line-Height"
+msgstr ""
+
+#: vc-map.php:2824 vc-map.php:3113
+msgid "Name: Top Margin"
+msgstr ""
+
+#: vc-map.php:2831 vc-map.php:3120
+msgid "Name: Bottom Margin"
+msgstr ""
+
+#: vc-map.php:2838 vc-map.php:3127
+msgid "Position: Top Margin"
+msgstr ""
+
+#: vc-map.php:2845 vc-map.php:3134
+msgid "Position: Bottom Margin"
+msgstr ""
+
+#: vc-map.php:2852 vc-map.php:3141
+msgid "Text: Top Margin"
+msgstr ""
+
+#: vc-map.php:2859 vc-map.php:3148
+msgid "Text: Bottom Margin"
+msgstr ""
+
+#: vc-map.php:2871
+msgid "Team Grid"
+msgstr ""
+
+#: vc-map.php:2872
+msgid "Displaying member posts in grid."
+msgstr ""
+
+#: vc-map.php:2945
+msgid "Column(s)"
+msgstr ""
+
+#: vc-map.php:3160
+msgid "Action Box"
+msgstr ""
+
+#: vc-map.php:3161
+msgid "Displaying Action-Box or Promo-Box."
+msgstr ""
+
+#: vc-map.php:3169
+msgid "Content Area: Width"
+msgstr ""
+
+#: vc-map.php:3172
+msgid "Default: 70%"
+msgstr ""
+
+#: vc-map.php:3176
+msgid "Content Area: Alignment"
+msgstr ""
+
+#: vc-map.php:3187
+msgid "Button Area: Width"
+msgstr ""
+
+#: vc-map.php:3190
+msgid "Default: 20%"
+msgstr ""
+
+#: vc-map.php:3194
+msgid "Button Area: Alignment"
+msgstr ""
+
+#: vc-map.php:3228 vc-map.php:7409 vc-map.php:7585
+msgid "Heading Text"
+msgstr ""
+
+#: vc-map.php:3242 vc-map.php:7596 vc-map.php:8357
+msgid "Heading Max-Width"
+msgstr ""
+
+#: vc-map.php:3250 vc-map.php:3423 vc-map.php:7604
+msgid "Sub-Heading"
+msgstr ""
+
+#: vc-map.php:3256
+msgid "Sub-Heading Color"
+msgstr ""
+
+#: vc-map.php:3263
+msgid "Sub-Heading Max-Width"
+msgstr ""
+
+#: vc-map.php:3272 vc-map.php:6404
+msgid "Button Text (Required)"
+msgstr ""
+
+#: vc-map.php:3279
+msgid "Button URL (Required):"
+msgstr ""
+
+#: vc-map.php:3286 vc-map.php:3874 vc-map.php:5463 vc-map.php:6420
+#: vc-map.php:6754 vc-map.php:8701 vc-map.php:9245 vc-map.php:10055
+msgid "Open Link in a new Tab"
+msgstr ""
+
+#: vc-map.php:3297 vc-map.php:3886 vc-map.php:5475 vc-map.php:6432
+msgid "Button Size"
+msgstr ""
+
+#: vc-map.php:3309 vc-map.php:3899 vc-map.php:5488 vc-map.php:6445
+#: vc-map.php:6770
+msgid "Button Rounded"
+msgstr ""
+
+#: vc-map.php:3312 vc-map.php:3902 vc-map.php:5491 vc-map.php:6773
+msgid "Ex: 30px"
+msgstr ""
+
+#: vc-map.php:3317 vc-map.php:3908 vc-map.php:5497 vc-map.php:6453
+msgid "Button Text Color"
+msgstr ""
+
+#: vc-map.php:3324 vc-map.php:3916 vc-map.php:5505 vc-map.php:6461
+#: vc-map.php:6793
+msgid "Button Background"
+msgstr ""
+
+#: vc-map.php:3331 vc-map.php:3924 vc-map.php:5513 vc-map.php:6477
+msgid "Button Border Width"
+msgstr ""
+
+#: vc-map.php:3338 vc-map.php:3932 vc-map.php:5521 vc-map.php:6485
+msgid "Button Border Style"
+msgstr ""
+
+#: vc-map.php:3350 vc-map.php:5534 vc-map.php:6800
+msgid "Button Border"
+msgstr ""
+
+#: vc-map.php:3357 vc-map.php:3953 vc-map.php:5542 vc-map.php:6498
+#: vc-map.php:6807
+msgid "Button Text: Hover"
+msgstr ""
+
+#: vc-map.php:3364 vc-map.php:3961 vc-map.php:5550 vc-map.php:6506
+#: vc-map.php:6813
+msgid "Button Background: Hover"
+msgstr ""
+
+#: vc-map.php:3371 vc-map.php:3969 vc-map.php:5558 vc-map.php:6514
+#: vc-map.php:6819
+msgid "Button Border: Hover"
+msgstr ""
+
+#: vc-map.php:3429
+msgid "Sub-Heading: Font Family"
+msgstr ""
+
+#: vc-map.php:3436
+msgid "Sub-Heading: Font Weight"
+msgstr ""
+
+#: vc-map.php:3453
+msgid "Sub-Heading: Font Size"
+msgstr ""
+
+#: vc-map.php:3460
+msgid "Sub-Heading: Line Height"
+msgstr ""
+
+#: vc-map.php:3473 vc-map.php:4072 vc-map.php:5661
+msgid "Button Font Family"
+msgstr ""
+
+#: vc-map.php:3480 vc-map.php:4079 vc-map.php:5668
+msgid "Button Font Weight"
+msgstr ""
+
+#: vc-map.php:3497 vc-map.php:4096 vc-map.php:5685
+msgid "Button Font Size"
+msgstr ""
+
+#: vc-map.php:3504 vc-map.php:5692
+msgid "Button Line-Height"
+msgstr ""
+
+#: vc-map.php:3512 vc-map.php:5940 vc-map.php:6228 vc-map.php:6656
+msgid "Heading Margin"
+msgstr ""
+
+#: vc-map.php:3519 vc-map.php:6677
+msgid "Button Margin"
+msgstr ""
+
+#: vc-map.php:3531
+msgid "Slogan Box"
+msgstr ""
+
+#: vc-map.php:3532
+msgid "Slogan Box."
+msgstr ""
+
+#: vc-map.php:3567 vc-map.php:3716 vc-map.php:4240 vc-map.php:4366
+#: vc-map.php:4988 vc-map.php:6893 vc-map.php:7309 vc-map.php:7427
+#: vc-map.php:7611 vc-map.php:7892 vc-map.php:7965 vc-map.php:8574
+#: vc-map.php:8712 vc-map.php:9627 vc-map.php:9758
+msgid "Enable Animation?"
+msgstr ""
+
+#: vc-map.php:3573 vc-map.php:3722 vc-map.php:4246 vc-map.php:4372
+#: vc-map.php:4994 vc-map.php:6899 vc-map.php:7315 vc-map.php:7433
+#: vc-map.php:7617 vc-map.php:7898 vc-map.php:7971 vc-map.php:8580
+#: vc-map.php:8718 vc-map.php:9633 vc-map.php:9764 vc-map.php:10901
+msgid "Animation"
+msgstr ""
+
+#: vc-map.php:3587 vc-map.php:3736 vc-map.php:4260 vc-map.php:4386
+#: vc-map.php:5008 vc-map.php:6913 vc-map.php:7329 vc-map.php:7447
+#: vc-map.php:7631 vc-map.php:7912 vc-map.php:7985 vc-map.php:8594
+#: vc-map.php:8732 vc-map.php:9647 vc-map.php:9778
+msgid "Animation Duration"
+msgstr ""
+
+#: vc-map.php:3590 vc-map.php:3598 vc-map.php:3739 vc-map.php:3747
+#: vc-map.php:4263 vc-map.php:4271 vc-map.php:4389 vc-map.php:4397
+#: vc-map.php:5011 vc-map.php:5019 vc-map.php:6916 vc-map.php:6924
+#: vc-map.php:7332 vc-map.php:7340 vc-map.php:7450 vc-map.php:7458
+#: vc-map.php:7634 vc-map.php:7642 vc-map.php:7915 vc-map.php:7923
+#: vc-map.php:7988 vc-map.php:7996 vc-map.php:8597 vc-map.php:8605
+#: vc-map.php:8735 vc-map.php:8743 vc-map.php:9650 vc-map.php:9658
+#: vc-map.php:9781 vc-map.php:9789
+msgid "Ex: 0.1s, 0.15s"
+msgstr ""
+
+#: vc-map.php:3595 vc-map.php:3744 vc-map.php:4268 vc-map.php:4394
+#: vc-map.php:5016 vc-map.php:6921 vc-map.php:7337 vc-map.php:7455
+#: vc-map.php:7639 vc-map.php:7920 vc-map.php:7993 vc-map.php:8602
+#: vc-map.php:8740 vc-map.php:9655 vc-map.php:9786
+msgid "Animation Delay"
+msgstr ""
+
+#: vc-map.php:3653
+msgid "Image Box"
+msgstr ""
+
+#: vc-map.php:3654
+msgid "Displaying image box."
+msgstr ""
+
+#: vc-map.php:3672 vc-map.php:6936 vc-map.php:7258 vc-map.php:7398
+#: vc-map.php:7559 vc-map.php:7952 vc-map.php:8535 vc-map.php:9270
+#: vc-map.php:9501 vc-map.php:10629 vc-map.php:10654 vc-map.php:11335
+msgid "Alignment"
+msgstr ""
+
+#: vc-map.php:3696 vc-map.php:8679 vc-map.php:8914 vc-map.php:10378
+msgid "Image Rounded"
+msgstr ""
+
+#: vc-map.php:3789 vc-map.php:3796 vc-map.php:4022 vc-map.php:5380
+#: vc-map.php:5611 vc-map.php:5947 vc-map.php:6235
+msgid "Description"
+msgstr ""
+
+#: vc-map.php:3803 vc-map.php:5387 vc-map.php:5952 vc-map.php:6240
+msgid "Description Color"
+msgstr ""
+
+#: vc-map.php:3811 vc-map.php:5395
+msgid "Show Link or Button?"
+msgstr ""
+
+#: vc-map.php:3814 vc-map.php:3827 vc-map.php:3840 vc-map.php:3853
+#: vc-map.php:3861 vc-map.php:3869 vc-map.php:3881 vc-map.php:3894
+#: vc-map.php:3903 vc-map.php:3911 vc-map.php:3919 vc-map.php:3927
+#: vc-map.php:3940 vc-map.php:3948 vc-map.php:3956 vc-map.php:3964
+#: vc-map.php:3972 vc-map.php:5398 vc-map.php:5410 vc-map.php:5424
+#: vc-map.php:5442 vc-map.php:5450 vc-map.php:5458 vc-map.php:5470
+#: vc-map.php:5483 vc-map.php:5492 vc-map.php:5500 vc-map.php:5508
+#: vc-map.php:5516 vc-map.php:5529 vc-map.php:5537 vc-map.php:5545
+#: vc-map.php:5553 vc-map.php:5561
+msgid "URL"
+msgstr ""
+
+#: vc-map.php:3832 vc-map.php:5415
+msgid "Link Style"
+msgstr ""
+
+#: vc-map.php:3845 vc-map.php:5429
+msgid "Link Color"
+msgstr ""
+
+#: vc-map.php:3858 vc-map.php:5447
+msgid "Text (Required)"
+msgstr ""
+
+#: vc-map.php:3866 vc-map.php:5455 vc-map.php:6412
+msgid "URL (Required):"
+msgstr ""
+
+#: vc-map.php:3945 vc-map.php:6469
+msgid "Button Border Color"
+msgstr ""
+
+#: vc-map.php:4028 vc-map.php:5617
+msgid "Description Font Family"
+msgstr ""
+
+#: vc-map.php:4035 vc-map.php:5624
+msgid "Description Font Weight"
+msgstr ""
+
+#: vc-map.php:4052 vc-map.php:5641
+msgid "Description Font Size"
+msgstr ""
+
+#: vc-map.php:4059 vc-map.php:5648 vc-map.php:6648
+msgid "Description Line-Height"
+msgstr ""
+
+#: vc-map.php:4118 vc-map.php:5746
+msgid "Description: Top Margin"
+msgstr ""
+
+#: vc-map.php:4125 vc-map.php:5753
+msgid "Description: Bottom Margin"
+msgstr ""
+
+#: vc-map.php:4133 vc-map.php:7057 vc-map.php:7170 vc-map.php:8756
+#: vc-map.php:8764 vc-map.php:8772 vc-map.php:8780 vc-map.php:8788
+#: vc-map.php:8796 vc-map.php:8965 vc-map.php:8972 vc-map.php:8979
+#: vc-map.php:8986 vc-map.php:8993 vc-map.php:9000 vc-map.php:10067
+#: vc-map.php:10069 vc-map.php:10080 vc-map.php:10087 vc-map.php:10094
+#: vc-map.php:10101 vc-map.php:10108 vc-map.php:10115
+msgid "Box Shadow"
+msgstr ""
+
+#: vc-map.php:4135 vc-map.php:4146 vc-map.php:4153 vc-map.php:4160
+#: vc-map.php:4167 vc-map.php:4174 vc-map.php:4181
+msgid "Shadow"
+msgstr ""
+
+#: vc-map.php:4139 vc-map.php:7063 vc-map.php:7176 vc-map.php:8749
+#: vc-map.php:8958 vc-map.php:10073
+msgid "Option Shadow"
+msgstr ""
+
+#: vc-map.php:4150 vc-map.php:5301 vc-map.php:7074 vc-map.php:7187
+#: vc-map.php:8761 vc-map.php:8969 vc-map.php:10084
+msgid "Horizontal (Required)"
+msgstr ""
+
+#: vc-map.php:4157 vc-map.php:5309 vc-map.php:7081 vc-map.php:7194
+#: vc-map.php:8769 vc-map.php:8976 vc-map.php:10091
+msgid "Vertical (Required)"
+msgstr ""
+
+#: vc-map.php:4164 vc-map.php:5317 vc-map.php:7088 vc-map.php:7201
+#: vc-map.php:8777 vc-map.php:8983 vc-map.php:10098
+msgid "Blur (Required)"
+msgstr ""
+
+#: vc-map.php:4171 vc-map.php:5325 vc-map.php:7095 vc-map.php:7208
+#: vc-map.php:8785 vc-map.php:8990 vc-map.php:10105
+msgid "Spread (Required)"
+msgstr ""
+
+#: vc-map.php:4178 vc-map.php:5333 vc-map.php:7102 vc-map.php:7215
+#: vc-map.php:8793 vc-map.php:8997 vc-map.php:10112
+msgid "Shadow Color (Required)"
+msgstr ""
+
+#: vc-map.php:4190 widgets/links.php:46
+msgid "Links"
+msgstr ""
+
+#: vc-map.php:4191
+msgid "Displaying a link."
+msgstr ""
+
+#: vc-map.php:4211
+msgid "Content (Required)"
+msgstr ""
+
+#: vc-map.php:4227
+msgid "Link (Required)"
+msgstr ""
+
+#: vc-map.php:4233 vc-map.php:6980 vc-map.php:9209 vc-map.php:9744
+msgid "Margin"
+msgstr ""
+
+#: vc-map.php:4313
+msgid "List"
+msgstr ""
+
+#: vc-map.php:4314 vc-map.php:9010
+msgid "Displaying Icon lists with custom icon."
+msgstr ""
+
+#: vc-map.php:4322 vc-map.php:4695 vc-map.php:5774 vc-map.php:6285
+#: vc-map.php:7003 vc-map.php:7116 vc-map.php:9175 vc-map.php:9701
+msgid "Background Color"
+msgstr ""
+
+#: vc-map.php:4328 vc-map.php:4713 vc-map.php:7031 vc-map.php:7144
+#: vc-map.php:9197 vc-map.php:9719
+msgid "Border Style"
+msgstr ""
+
+#: vc-map.php:4339 vc-map.php:4701 vc-map.php:7016 vc-map.php:7129
+#: vc-map.php:9182 vc-map.php:9572 vc-map.php:9707
+msgid "Border Color"
+msgstr ""
+
+#: vc-map.php:4345 vc-map.php:4707 vc-map.php:7023 vc-map.php:7136
+#: vc-map.php:9189 vc-map.php:9713
+msgid "Border Width"
+msgstr ""
+
+#: vc-map.php:4348 vc-map.php:7026 vc-map.php:7139
+msgid "Top Right Bottom Left. Ex: 0px 0px 1px 0px"
+msgstr ""
+
+#: vc-map.php:4352 vc-map.php:4724 vc-map.php:6279 vc-map.php:6964
+#: vc-map.php:9737
+msgid "Padding"
+msgstr ""
+
+#: vc-map.php:4355
+msgid "Top Right Bottom Left. Ex: 12px 30px 12px 30px"
+msgstr ""
+
+#: vc-map.php:4408 vc-map.php:5045 vc-map.php:5970 vc-map.php:6179
+#: vc-map.php:8007 vc-map.php:9024 vc-map.php:9331 vc-map.php:9842
+msgid "Agrikole Icons"
+msgstr ""
+
+#: vc-map.php:4409 vc-map.php:5046 vc-map.php:5971 vc-map.php:6180
+#: vc-map.php:8008 vc-map.php:9025 vc-map.php:9332 vc-map.php:9843
+msgid "Stroke 7 Icons"
+msgstr ""
+
+#: vc-map.php:4524 vc-map.php:9824
+msgid "Icon Style"
+msgstr ""
+
+#: vc-map.php:4535 vc-map.php:5226 vc-map.php:6101 vc-map.php:8188
+msgid "Icon Background"
+msgstr ""
+
+#: vc-map.php:4546 vc-map.php:5218 vc-map.php:6095 vc-map.php:8180
+#: vc-map.php:9959
+msgid "Icon Color"
+msgstr ""
+
+#: vc-map.php:4553 vc-map.php:5185 vc-map.php:6070 vc-map.php:8147
+msgid "Icon Width"
+msgstr ""
+
+#: vc-map.php:4564 vc-map.php:5193 vc-map.php:6076 vc-map.php:8155
+msgid "Icon Height"
+msgstr ""
+
+#: vc-map.php:4575 vc-map.php:5209 vc-map.php:6088 vc-map.php:8171
+msgid "Icon Rounded"
+msgstr ""
+
+#: vc-map.php:4586 vc-map.php:5177 vc-map.php:6064 vc-map.php:8139
+#: vc-map.php:9967
+msgid "Icon Font Size"
+msgstr ""
+
+#: vc-map.php:4593
+msgid "Icon Line-Height"
+msgstr ""
+
+#: vc-map.php:4600 vc-map.php:9975
+msgid "Icon Position"
+msgstr ""
+
+#: vc-map.php:4611
+msgid "Icon Top Margin"
+msgstr ""
+
+#: vc-map.php:4626
+msgid "Content Color"
+msgstr ""
+
+#: vc-map.php:4633 vc-map.php:8477
+msgid "Content Left Padding"
+msgstr ""
+
+#: vc-map.php:4637 vc-map.php:8481
+msgid "Spacing between the icon and the content"
+msgstr ""
+
+#: vc-map.php:4643
+msgid "Content Font Family"
+msgstr ""
+
+#: vc-map.php:4650
+msgid "Content Font Weight"
+msgstr ""
+
+#: vc-map.php:4667
+msgid "Content Font Size"
+msgstr ""
+
+#: vc-map.php:4674
+msgid "Content Line-Height"
+msgstr ""
+
+#: vc-map.php:4686
+msgid "Menu List"
+msgstr ""
+
+#: vc-map.php:4687
+msgid "Menu List."
+msgstr ""
+
+#: vc-map.php:4727
+msgid "Top Right Bottom Left. Default: 10px 20px 10px 20px"
+msgstr ""
+
+#: vc-map.php:4759 vc-map.php:4766 vc-map.php:4818
+msgid "Value"
+msgstr ""
+
+#: vc-map.php:4787
+msgid "Text: Font Family"
+msgstr ""
+
+#: vc-map.php:4794
+msgid "Text: Font Weight"
+msgstr ""
+
+#: vc-map.php:4811
+msgid "Text: Font Size"
+msgstr ""
+
+#: vc-map.php:4824
+msgid "Value: Font Family"
+msgstr ""
+
+#: vc-map.php:4831
+msgid "Value: Font Weight"
+msgstr ""
+
+#: vc-map.php:4848
+msgid "Value: Font Size"
+msgstr ""
+
+#: vc-map.php:4860 vc-map.php:5923
+msgid "Icon Box"
+msgstr ""
+
+#: vc-map.php:4861
+msgid "Displaying Icon Box with custom icon."
+msgstr ""
+
+#: vc-map.php:4893 vc-map.php:9315
+msgid "Icon to Display"
+msgstr ""
+
+#: vc-map.php:4904
+msgid "Wrap Padding"
+msgstr ""
+
+#: vc-map.php:4918
+msgid "Wrap Background"
+msgstr ""
+
+#: vc-map.php:4924
+msgid "Wrap Background Image"
+msgstr ""
+
+#: vc-map.php:4930
+msgid "Wrap Rounded"
+msgstr ""
+
+#: vc-map.php:4936
+msgid "Wrap Border Color"
+msgstr ""
+
+#: vc-map.php:4942
+msgid "Wrap Border Width"
+msgstr ""
+
+#: vc-map.php:4945
+msgid "Ex: 1px"
+msgstr ""
+
+#: vc-map.php:4949
+msgid "Wrap Border Style"
+msgstr ""
+
+#: vc-map.php:4972
+msgid "Ex: 100px"
+msgstr ""
+
+#: vc-map.php:4979
+msgid "Icon Text"
+msgstr ""
+
+#: vc-map.php:5025
+msgid "Show Number?"
+msgstr ""
+
+#: vc-map.php:5032 vc-map.php:8263 vc-map.php:8274 vc-map.php:8279
+#: vc-map.php:8281 vc-map.php:8288 vc-map.php:8296 vc-map.php:8302
+#: vc-map.php:8309 vc-map.php:8315 vc-map.php:8322 vc-map.php:11366
+msgid "Number"
+msgstr ""
+
+#: vc-map.php:5201 vc-map.php:6082 vc-map.php:8163
+msgid "Icon Line Height"
+msgstr ""
+
+#: vc-map.php:5212 vc-map.php:6091 vc-map.php:8174 vc-map.php:8682
+#: vc-map.php:9163 vc-map.php:9733 vc-map.php:10381
+msgid "ex: 10px"
+msgstr ""
+
+#: vc-map.php:5234 vc-map.php:6107 vc-map.php:8196
+msgid "Icon Border Color"
+msgstr ""
+
+#: vc-map.php:5242 vc-map.php:6113 vc-map.php:8204
+msgid "Icon Border Width"
+msgstr ""
+
+#: vc-map.php:5245 vc-map.php:6116 vc-map.php:8207 vc-map.php:9192
+#: vc-map.php:9304
+msgid "Default: 1px"
+msgstr ""
+
+#: vc-map.php:5251 vc-map.php:6120 vc-map.php:8213
+msgid "Icon Border Style"
+msgstr ""
+
+#: vc-map.php:5264 vc-map.php:6131 vc-map.php:8226 vc-map.php:9816
+msgid "Icon Color: Hover"
+msgstr ""
+
+#: vc-map.php:5272 vc-map.php:6137 vc-map.php:8234
+msgid "Icon Background: Hover"
+msgstr ""
+
+#: vc-map.php:5280 vc-map.php:6143 vc-map.php:8242
+msgid "Icon Border: Hover"
+msgstr ""
+
+#: vc-map.php:5289
+msgid "Option Icon Shadow"
+msgstr ""
+
+#: vc-map.php:5365
+msgid "Heading URL (Optional):"
+msgstr ""
+
+#: vc-map.php:5700 vc-map.php:8486 vc-map.php:9459
+msgid "Icon: Top Margin"
+msgstr ""
+
+#: vc-map.php:5708
+msgid "Content: Left Padding"
+msgstr ""
+
+#: vc-map.php:5716
+msgid "Content: Right Padding"
+msgstr ""
+
+#: vc-map.php:5724
+msgid "Heading: Left Margin"
+msgstr ""
+
+#: vc-map.php:5761
+msgid "Hover Style"
+msgstr ""
+
+#: vc-map.php:5770 vc-map.php:5777 vc-map.php:5785 vc-map.php:5801
+#: vc-map.php:7112 vc-map.php:7119 vc-map.php:7125 vc-map.php:7132
+#: vc-map.php:7140 vc-map.php:7152 vc-map.php:7158 vc-map.php:7166
+#: vc-map.php:7172 vc-map.php:7183 vc-map.php:7190 vc-map.php:7197
+#: vc-map.php:7204 vc-map.php:7211 vc-map.php:7218 vc-map.php:7224
+#: vc-map.php:7232 vc-map.php:7240 vc-map.php:9219 vc-map.php:9226
+#: vc-map.php:9233 vc-map.php:9798 vc-map.php:9805 vc-map.php:9812
+#: vc-map.php:9819
+msgid "Hover"
+msgstr ""
+
+#: vc-map.php:5790
+msgid "Link Hover"
+msgstr ""
+
+#: vc-map.php:5815
+msgid "Iconbox Group"
+msgstr ""
+
+#: vc-map.php:5816
+msgid "Displaying Iconbox Group"
+msgstr ""
+
+#: vc-map.php:5838
+msgid "Items"
+msgstr ""
+
+#: vc-map.php:5854
+msgid "Icon List"
+msgstr ""
+
+#: vc-map.php:5855
+msgid "Displaying Icon Box in group."
+msgstr ""
+
+#: vc-map.php:5873
+msgid "Item Spacing"
+msgstr ""
+
+#: vc-map.php:5879
+msgid "Show Line?"
+msgstr ""
+
+#: vc-map.php:5885 vc-map.php:9282
+msgid "Line Style"
+msgstr ""
+
+#: vc-map.php:5904 vc-map.php:7463 vc-map.php:7673
+msgid "Line Width"
+msgstr ""
+
+#: vc-map.php:5911
+msgid "Line Offset"
+msgstr ""
+
+#: vc-map.php:5914
+msgid "Default: 30px"
+msgstr ""
+
+#: vc-map.php:5958 vc-map.php:6246
+msgid "Description Margin"
+msgstr ""
+
+#: vc-map.php:6156
+msgid "Step Box"
+msgstr ""
+
+#: vc-map.php:6157
+msgid "Displaying Step Box."
+msgstr ""
+
+#: vc-map.php:6169
+msgid "Number Box"
+msgstr ""
+
+#: vc-map.php:6259
+msgid "Price Table"
+msgstr ""
+
+#: vc-map.php:6260
+msgid "Displaying a Price Table."
+msgstr ""
+
+#: vc-map.php:6297 vc-map.php:6855 vc-map.php:8659
+msgid "Background Position"
+msgstr ""
+
+#: vc-map.php:6312 vc-map.php:6870
+msgid "Background Repeat"
+msgstr ""
+
+#: vc-map.php:6324 vc-map.php:6882
+msgid "Background Size"
+msgstr ""
+
+#: vc-map.php:6352 vc-map.php:6355 vc-map.php:6362 vc-map.php:6369
+#: vc-map.php:6376 vc-map.php:6383 vc-map.php:6390 vc-map.php:6567
+#: vc-map.php:6724
+msgid "Price"
+msgstr ""
+
+#: vc-map.php:6359
+msgid "Price Color"
+msgstr ""
+
+#: vc-map.php:6366 vc-map.php:6730
+msgid "Currency"
+msgstr ""
+
+#: vc-map.php:6373
+msgid "Currency Color"
+msgstr ""
+
+#: vc-map.php:6380 vc-map.php:6611
+msgid "Unit"
+msgstr ""
+
+#: vc-map.php:6387
+msgid "Unit Color"
+msgstr ""
+
+#: vc-map.php:6573
+msgid "Price Font Family"
+msgstr ""
+
+#: vc-map.php:6580
+msgid "Price Font Weight"
+msgstr ""
+
+#: vc-map.php:6597
+msgid "Price Font Size"
+msgstr ""
+
+#: vc-map.php:6604
+msgid "Price Line-Height"
+msgstr ""
+
+#: vc-map.php:6617
+msgid "Unit Font Family"
+msgstr ""
+
+#: vc-map.php:6624
+msgid "Unit Font Weight"
+msgstr ""
+
+#: vc-map.php:6641
+msgid "Unit Font Size"
+msgstr ""
+
+#: vc-map.php:6663
+msgid "Price Margin"
+msgstr ""
+
+#: vc-map.php:6670
+msgid "Content Margin"
+msgstr ""
+
+#: vc-map.php:6689
+msgid "Price Tables with Switcher"
+msgstr ""
+
+#: vc-map.php:6690
+msgid "Displaying 03 Price Tables with Switcher."
+msgstr ""
+
+#: vc-map.php:6698
+msgid "Switch Text 1"
+msgstr ""
+
+#: vc-map.php:6704
+msgid "Switch Text 2"
+msgstr ""
+
+#: vc-map.php:6714
+msgid "Price Tables"
+msgstr ""
+
+#: vc-map.php:6736
+msgid "Features"
+msgstr ""
+
+#: vc-map.php:6742
+msgid "Button Content"
+msgstr ""
+
+#: vc-map.php:6748
+msgid "Button Content Extra"
+msgstr ""
+
+#: vc-map.php:6764
+msgid "Button Link (URL)"
+msgstr ""
+
+#: vc-map.php:6777
+msgid "Button Style"
+msgstr ""
+
+#: vc-map.php:6787
+msgid "Button Text"
+msgstr ""
+
+#: vc-map.php:6836
+msgid "Content Box"
+msgstr ""
+
+#: vc-map.php:6837
+msgid "Content Box."
+msgstr ""
+
+#: vc-map.php:6929
+msgid "Extra Class"
+msgstr ""
+
+#: vc-map.php:6931
+msgid "Addition class name to refer to it in your css file."
+msgstr ""
+
+#: vc-map.php:6948 vc-map.php:9139
+msgid "Width"
+msgstr ""
+
+#: vc-map.php:6952
+msgid "Ex: 600px"
+msgstr ""
+
+#: vc-map.php:6956 vc-map.php:9146
+msgid "Height"
+msgstr ""
+
+#: vc-map.php:6960
+msgid "Ex: 400px"
+msgstr ""
+
+#: vc-map.php:6972
+msgid "Padding on mobile"
+msgstr ""
+
+#: vc-map.php:6988
+msgid "Margin on mobile"
+msgstr ""
+
+#: vc-map.php:6997 vc-map.php:7110
+msgid "Background"
+msgstr ""
+
+#: vc-map.php:6999 vc-map.php:7006 vc-map.php:7012 vc-map.php:7019
+#: vc-map.php:7027 vc-map.php:7039 vc-map.php:7045 vc-map.php:7053
+#: vc-map.php:7059 vc-map.php:7070 vc-map.php:7077 vc-map.php:7084
+#: vc-map.php:7091 vc-map.php:7098 vc-map.php:7105 vc-map.php:9135
+#: vc-map.php:9142 vc-map.php:9149 vc-map.php:9156 vc-map.php:9164
+#: vc-map.php:9171 vc-map.php:9178 vc-map.php:9185 vc-map.php:9193
+#: vc-map.php:9205 vc-map.php:9212
+msgid "Design"
+msgstr ""
+
+#: vc-map.php:7010 vc-map.php:7123
+msgid "Border"
+msgstr ""
+
+#: vc-map.php:7052 vc-map.php:7165
+msgid "Ex: 6px"
+msgstr ""
+
+#: vc-map.php:7222
+msgid "Transforms"
+msgstr ""
+
+#: vc-map.php:7228
+msgid "Translate X"
+msgstr ""
+
+#: vc-map.php:7236
+msgid "Translate Y"
+msgstr ""
+
+#: vc-map.php:7249
+msgid "Advanced Text"
+msgstr ""
+
+#: vc-map.php:7250
+msgid "Displaying a text with some styles."
+msgstr ""
+
+#: vc-map.php:7268 vc-map.php:10665 vc-map.php:10980
+msgid "Tag"
+msgstr ""
+
+#: vc-map.php:7296 vc-map.php:11345
+msgid "Max-Width"
+msgstr ""
+
+#: vc-map.php:7377 vc-map.php:7470 vc-map.php:7681 vc-map.php:9153
+msgid "Line Height"
+msgstr ""
+
+#: vc-map.php:7389
+msgid "Single Heading"
+msgstr ""
+
+#: vc-map.php:7390
+msgid "Displaying a single heading with some styles."
+msgstr ""
+
+#: vc-map.php:7466 vc-map.php:7473 vc-map.php:7480 vc-map.php:7487
+#: vc-map.php:7495
+msgid "Line"
+msgstr ""
+
+#: vc-map.php:7484
+msgid "Spacing Between"
+msgstr ""
+
+#: vc-map.php:7488
+msgid "Spacing between the line and the text. Ex: 50px."
+msgstr ""
+
+#: vc-map.php:7492
+msgid "Line Offset Top"
+msgstr ""
+
+#: vc-map.php:7496
+msgid "Ex: 5px."
+msgstr ""
+
+#: vc-map.php:7507 vc-map.php:7752 vc-map.php:8431
+msgid "Heading: Font Family"
+msgstr ""
+
+#: vc-map.php:7514 vc-map.php:7759 vc-map.php:8438
+msgid "Heading: Font Weight"
+msgstr ""
+
+#: vc-map.php:7531 vc-map.php:7776 vc-map.php:8455
+msgid "Heading: Font Size"
+msgstr ""
+
+#: vc-map.php:7538 vc-map.php:7797 vc-map.php:8469
+msgid "Heading: Letter Spacing"
+msgstr ""
+
+#: vc-map.php:7550
+msgid "Headings"
+msgstr ""
+
+#: vc-map.php:7551
+msgid "Displaying awesome heading styles."
+msgstr ""
+
+#: vc-map.php:7572 vc-map.php:7804
+msgid "Pre-Heading"
+msgstr ""
+
+#: vc-map.php:7577
+msgid "Pre-Heading Color"
+msgstr ""
+
+#: vc-map.php:7647 vc-map.php:7655 vc-map.php:7668 vc-map.php:7676
+#: vc-map.php:7684 vc-map.php:7692 vc-map.php:7700 vc-map.php:7708
+#: vc-map.php:7717 vc-map.php:7725
+msgid "Separator"
+msgstr ""
+
+#: vc-map.php:7659
+msgid "Separator Position"
+msgstr ""
+
+#: vc-map.php:7689
+msgid "Separator Margin"
+msgstr ""
+
+#: vc-map.php:7697
+msgid "Line: Right Margin"
+msgstr ""
+
+#: vc-map.php:7783
+msgid "Heading: Font Size on Mobile"
+msgstr ""
+
+#: vc-map.php:7790 vc-map.php:8462
+msgid "Heading: Line Height"
+msgstr ""
+
+#: vc-map.php:7810
+msgid "Pre-Heading: Font Family"
+msgstr ""
+
+#: vc-map.php:7817
+msgid "Pre-Heading: Font Weight"
+msgstr ""
+
+#: vc-map.php:7834
+msgid "Pre-Heading: Font Size"
+msgstr ""
+
+#: vc-map.php:7841
+msgid "Pre-Heading: Line Height"
+msgstr ""
+
+#: vc-map.php:7848
+msgid "Pre-Heading: Letter Spacing"
+msgstr ""
+
+#: vc-map.php:7878
+msgid "Animation Block"
+msgstr ""
+
+#: vc-map.php:7879
+msgid "Apply animations anywhere."
+msgstr ""
+
+#: vc-map.php:7933
+msgid "Counter"
+msgstr ""
+
+#: vc-map.php:7934
+msgid "Displaying a counter."
+msgstr ""
+
+#: vc-map.php:8251
+msgid "Number Tag"
+msgstr ""
+
+#: vc-map.php:8267
+msgid "Number Show"
+msgstr ""
+
+#: vc-map.php:8285
+msgid "Number Color"
+msgstr ""
+
+#: vc-map.php:8292
+msgid "Rolling Time"
+msgstr ""
+
+#: vc-map.php:8300
+msgid "Prefix (Optional)"
+msgstr ""
+
+#: vc-map.php:8306
+msgid "Prefix Color"
+msgstr ""
+
+#: vc-map.php:8313
+msgid "Suffix (Optional)"
+msgstr ""
+
+#: vc-map.php:8319
+msgid "Suffix Color"
+msgstr ""
+
+#: vc-map.php:8365
+msgid "Number Settings"
+msgstr ""
+
+#: vc-map.php:8372
+msgid "Number: Font Family"
+msgstr ""
+
+#: vc-map.php:8379
+msgid "Number: Font Weight"
+msgstr ""
+
+#: vc-map.php:8396
+msgid "Number: Font Size"
+msgstr ""
+
+#: vc-map.php:8403
+msgid "Number: Font Size on Mobile"
+msgstr ""
+
+#: vc-map.php:8410
+msgid "Number: Line Height"
+msgstr ""
+
+#: vc-map.php:8417
+msgid "Number: Letter Spacing"
+msgstr ""
+
+#: vc-map.php:8424
+msgid "Heading Settings"
+msgstr ""
+
+#: vc-map.php:8493
+msgid "Number: Top Margin"
+msgstr ""
+
+#: vc-map.php:8500
+msgid "Number: Bottom Margin"
+msgstr ""
+
+#: vc-map.php:8526 vc-map.php:8814 vc-map.php:8825 vc-map.php:8832
+msgid "Video Icon"
+msgstr ""
+
+#: vc-map.php:8527
+msgid "Displaying Icon with custom video popup."
+msgstr ""
+
+#: vc-map.php:8557 vc-map.php:8818 vc-map.php:9684 vc-map.php:10623
+msgid "Size"
+msgstr ""
+
+#: vc-map.php:8567 vc-map.php:8829
+msgid "Link Youtube/Vimeo (URL)"
+msgstr ""
+
+#: vc-map.php:8615
+msgid "Simple Image"
+msgstr ""
+
+#: vc-map.php:8616
+msgid "Displaying a simple image with animation."
+msgstr ""
+
+#: vc-map.php:8630
+msgid "Image Stretch?"
+msgstr ""
+
+#: vc-map.php:8637
+msgid "Effect"
+msgstr ""
+
+#: vc-map.php:8648
+msgid "Reveal Direction"
+msgstr ""
+
+#: vc-map.php:8687
+msgid "Center Alignment"
+msgstr ""
+
+#: vc-map.php:8695 vc-map.php:9238 vc-map.php:10048
+msgid "Link (URL):"
+msgstr ""
+
+#: vc-map.php:8837
+msgid "Image Stretch"
+msgstr ""
+
+#: vc-map.php:8846 vc-map.php:8854 vc-map.php:8862
+msgid "Stretch"
+msgstr ""
+
+#: vc-map.php:8851
+msgid "Offset Left"
+msgstr ""
+
+#: vc-map.php:8859
+msgid "Offset Right"
+msgstr ""
+
+#: vc-map.php:8875
+msgid "Parallax Image Box"
+msgstr ""
+
+#: vc-map.php:8876
+msgid "Parallax Box"
+msgstr ""
+
+#: vc-map.php:8892
+msgid "Item for Parallax Image Box"
+msgstr ""
+
+#: vc-map.php:8910
+msgid "You can use % or px value. Ex: 50%."
+msgstr ""
+
+#: vc-map.php:8921
+msgid "Parallax X"
+msgstr ""
+
+#: vc-map.php:8923
+msgid "X axis translation."
+msgstr ""
+
+#: vc-map.php:8927
+msgid "Parallax Y"
+msgstr ""
+
+#: vc-map.php:8929
+msgid "Y axis translation."
+msgstr ""
+
+#: vc-map.php:8933
+msgid "Smoothness"
+msgstr ""
+
+#: vc-map.php:8936
+msgid "Slowdown the animation."
+msgstr ""
+
+#: vc-map.php:8940
+msgid "Left"
+msgstr ""
+
+#: vc-map.php:8946
+msgid "Right"
+msgstr ""
+
+#: vc-map.php:8952
+msgid "Top"
+msgstr ""
+
+#: vc-map.php:9009
+msgid "Icons"
+msgstr ""
+
+#: vc-map.php:9216
+msgid "Color: Hover"
+msgstr ""
+
+#: vc-map.php:9223 vc-map.php:9802
+msgid "Background Color: Hover"
+msgstr ""
+
+#: vc-map.php:9230 vc-map.php:9809
+msgid "Border Color: Hover"
+msgstr ""
+
+#: vc-map.php:9241 vc-map.php:9247 vc-map.php:10051 vc-map.php:10057
+msgid "Hyperlink"
+msgstr ""
+
+#: vc-map.php:9261
+msgid "Divider"
+msgstr ""
+
+#: vc-map.php:9262
+msgid "Displaying lines separator."
+msgstr ""
+
+#: vc-map.php:9294
+msgid "Line: Width"
+msgstr ""
+
+#: vc-map.php:9297
+msgid "Default: 100%."
+msgstr ""
+
+#: vc-map.php:9301
+msgid "Line: Height"
+msgstr ""
+
+#: vc-map.php:9308
+msgid "Line: Color"
+msgstr ""
+
+#: vc-map.php:9433
+msgid "Icon: Color"
+msgstr ""
+
+#: vc-map.php:9449
+msgid "Icon: Padding"
+msgstr ""
+
+#: vc-map.php:9453
+msgid "Top Right Bottom Left. Default: 0px 12px 0px 12px"
+msgstr ""
+
+#: vc-map.php:9466
+msgid "Line: Top Margin"
+msgstr ""
+
+#: vc-map.php:9473
+msgid "Line: Bottom Margin"
+msgstr ""
+
+#: vc-map.php:9488
+msgid "Alignment Box"
+msgstr ""
+
+#: vc-map.php:9489
+msgid "Align elements."
+msgstr ""
+
+#: vc-map.php:9512
+msgid "Alignment on Mobile"
+msgstr ""
+
+#: vc-map.php:9523
+msgid "Hide on Mobile?"
+msgstr ""
+
+#: vc-map.php:9537
+msgid "Grid Box"
+msgstr ""
+
+#: vc-map.php:9538
+msgid "Grid Box."
+msgstr ""
+
+#: vc-map.php:9550
+msgid "Grid"
+msgstr ""
+
+#: vc-map.php:9561
+msgid "Border Type?"
+msgstr ""
+
+#: vc-map.php:9668
+msgid "Buttons"
+msgstr ""
+
+#: vc-map.php:9669
+msgid "Advanced Buttons."
+msgstr ""
+
+#: vc-map.php:9740
+msgid "Top Right Bottom Left. Ex: 13px 40px 13px 40px"
+msgstr ""
+
+#: vc-map.php:9751
+msgid "Full-width Button?"
+msgstr ""
+
+#: vc-map.php:9795
+msgid "Text Color: Hover"
+msgstr ""
+
+#: vc-map.php:9987
+msgid "Icon: Right Padding"
+msgstr ""
+
+#: vc-map.php:9991 vc-map.php:10000
+msgid "Spacing between the icon and the text. Ex: 40px."
+msgstr ""
+
+#: vc-map.php:9996
+msgid "Icon Left Padding"
+msgstr ""
+
+#: vc-map.php:10005
+msgid "Icon: Offset"
+msgstr ""
+
+#: vc-map.php:10042
+msgid "Use this to change the distance middle the icon and top of button."
+msgstr ""
+
+#: vc-map.php:10151
+msgid "Line-Height"
+msgstr ""
+
+#: vc-map.php:10166
+msgid "Hero Section"
+msgstr ""
+
+#: vc-map.php:10167
+msgid "Hero Section."
+msgstr ""
+
+#: vc-map.php:10179
+msgid "Hero Height"
+msgstr ""
+
+#: vc-map.php:10189
+msgid "Hero Custom Height"
+msgstr ""
+
+#: vc-map.php:10192
+msgid "Ex: 600px."
+msgstr ""
+
+#: vc-map.php:10207
+msgid "Background Images"
+msgstr ""
+
+#: vc-map.php:10210
+msgid "Choose multi-images for background slideshow."
+msgstr ""
+
+#: vc-map.php:10215
+msgid "Effects"
+msgstr ""
+
+#: vc-map.php:10247
+msgid "Youtube link (URL)"
+msgstr ""
+
+#: vc-map.php:10250
+msgid "Youtube link or ID. Ex: https://www.youtube.com/watch?v=vQqZIFCab9o"
+msgstr ""
+
+#: vc-map.php:10255
+msgid "Pattern Overlay"
+msgstr ""
+
+#: vc-map.php:10273
+msgid "Color Overlay"
+msgstr ""
+
+#: vc-map.php:10279
+msgid "Content Alignment"
+msgstr ""
+
+#: vc-map.php:10290
+msgid "Content: Top Margin"
+msgstr ""
+
+#: vc-map.php:10293
+msgid "Ex: 50px. In case you want to set a spacing above the content area."
+msgstr ""
+
+#: vc-map.php:10297
+msgid "Content area into Grid?"
+msgstr ""
+
+#: vc-map.php:10304
+msgid "Show arrow?"
+msgstr ""
+
+#: vc-map.php:10307 vc-map.php:10318 vc-map.php:10327
+msgid "Arrow"
+msgstr ""
+
+#: vc-map.php:10311
+msgid "Arrow Style"
+msgstr ""
+
+#: vc-map.php:10323
+msgid "Scroll to Row (ID)"
+msgstr ""
+
+#: vc-map.php:10326
+msgid "Enter the anchor ID you assigned to the element."
+msgstr ""
+
+#: vc-map.php:10337
+msgid "Images Grid"
+msgstr ""
+
+#: vc-map.php:10338
+msgid "Displaying images masonry or mosaic grid."
+msgstr ""
+
+#: vc-map.php:10346
+msgid "Layout"
+msgstr ""
+
+#: vc-map.php:10374 vc-map.php:10487
+msgid "Choose multi-images for Images Grid."
+msgstr ""
+
+#: vc-map.php:10397
+msgid "If Wrap > 1100px."
+msgstr ""
+
+#: vc-map.php:10399 vc-map.php:10415 vc-map.php:10430 vc-map.php:10444
+msgid "Column Options"
+msgstr ""
+
+#: vc-map.php:10413
+msgid "If Wrap from 800px to 1099px."
+msgstr ""
+
+#: vc-map.php:10428
+msgid "If Wrap from 550px to 799px."
+msgstr ""
+
+#: vc-map.php:10442
+msgid "If Wrap < 549px."
+msgstr ""
+
+#: vc-map.php:10460
+msgid "Images Carousel"
+msgstr ""
+
+#: vc-map.php:10461
+msgid "Displaying images in carousel."
+msgstr ""
+
+#: vc-map.php:10491
+msgid "Show Border?"
+msgstr ""
+
+#: vc-map.php:10602
+msgid "Scroll to ID Target"
+msgstr ""
+
+#: vc-map.php:10603
+msgid "Displaying a arrow for scrolling down when clicked."
+msgstr ""
+
+#: vc-map.php:10611
+msgid "ID Target"
+msgstr ""
+
+#: vc-map.php:10645
+msgid "Special Text"
+msgstr ""
+
+#: vc-map.php:10646
+msgid "Awesome Texts."
+msgstr ""
+
+#: vc-map.php:10681 vc-map.php:10912
+msgid "Text 1 (Optional)"
+msgstr ""
+
+#: vc-map.php:10687 vc-map.php:10918
+msgid "Text 2 (Optional)"
+msgstr ""
+
+#: vc-map.php:10693 vc-map.php:10924
+msgid "Text 3 (Optional)"
+msgstr ""
+
+#: vc-map.php:10698
+msgid "Text 1 Color"
+msgstr ""
+
+#: vc-map.php:10704
+msgid "Text 2 Color"
+msgstr ""
+
+#: vc-map.php:10710
+msgid "Text 3 Color"
+msgstr ""
+
+#: vc-map.php:10717
+msgid "Text 1"
+msgstr ""
+
+#: vc-map.php:10723
+msgid "Text 1: Font Family"
+msgstr ""
+
+#: vc-map.php:10730
+msgid "Text 1: Font Weight"
+msgstr ""
+
+#: vc-map.php:10747
+msgid "Text 1: Font Size"
+msgstr ""
+
+#: vc-map.php:10754
+msgid "Text 1: Font Style"
+msgstr ""
+
+#: vc-map.php:10765
+msgid "Text 2"
+msgstr ""
+
+#: vc-map.php:10771
+msgid "Text 2: Font Family"
+msgstr ""
+
+#: vc-map.php:10778
+msgid "Text 2: Font Weight"
+msgstr ""
+
+#: vc-map.php:10795
+msgid "Text 2: Font Size"
+msgstr ""
+
+#: vc-map.php:10802
+msgid "Text 2: Font Style"
+msgstr ""
+
+#: vc-map.php:10813
+msgid "Text 3"
+msgstr ""
+
+#: vc-map.php:10819
+msgid "Text 3: Font Family"
+msgstr ""
+
+#: vc-map.php:10826
+msgid "Text 3: Font Weight"
+msgstr ""
+
+#: vc-map.php:10843
+msgid "Text 3: Font Size"
+msgstr ""
+
+#: vc-map.php:10850
+msgid "Text 3: Font Style"
+msgstr ""
+
+#: vc-map.php:10862
+msgid "Text 1: Right Padding"
+msgstr ""
+
+#: vc-map.php:10869
+msgid "Text 2: Right Padding"
+msgstr ""
+
+#: vc-map.php:10881
+msgid "Fancy Text"
+msgstr ""
+
+#: vc-map.php:10882
+msgid "Awesome Animation Text."
+msgstr ""
+
+#: vc-map.php:10930
+msgid "Text 4 (Optional)"
+msgstr ""
+
+#: vc-map.php:10936
+msgid "Text 5 (Optional)"
+msgstr ""
+
+#: vc-map.php:10942
+msgid "Prefix Text (Optional)"
+msgstr ""
+
+#: vc-map.php:10944 vc-map.php:10952 vc-map.php:10966 vc-map.php:10974
+msgid "Prefix & Suffix"
+msgstr ""
+
+#: vc-map.php:10950
+msgid "Suffix Text (Optional)"
+msgstr ""
+
+#: vc-map.php:10963
+msgid "Prefix Text Color"
+msgstr ""
+
+#: vc-map.php:10971
+msgid "Suffix Text Color"
+msgstr ""
+
+#: vc-map.php:11019
+msgid "Font Size: Max"
+msgstr ""
+
+#: vc-map.php:11024
+msgid ""
+"Important! This size only appear exactly on the full-width grid, 65px max-"
+"size on the 1170 grid and 32px max-size on the 570px grid."
+msgstr ""
+
+#: vc-map.php:11028
+msgid "Font Size: Min"
+msgstr ""
+
+#: vc-map.php:11041
+msgid "Partner Carousel"
+msgstr ""
+
+#: vc-map.php:11042
+msgid "Displaying partner posts in carousel."
+msgstr ""
+
+#: vc-map.php:11100
+msgid "Only show posts from specific category-slug (optional)."
+msgstr ""
+
+#: vc-map.php:11268
+msgid "Share Socials"
+msgstr ""
+
+#: vc-map.php:11269
+msgid "Share Socials."
+msgstr ""
+
+#: vc-map.php:11287
+msgid "Facebook?"
+msgstr ""
+
+#: vc-map.php:11293
+msgid "Twitter?"
+msgstr ""
+
+#: vc-map.php:11299
+msgid "Pinterest?"
+msgstr ""
+
+#: vc-map.php:11305
+msgid "Linkedin?"
+msgstr ""
+
+#: vc-map.php:11316
+msgid "Subscribe Form"
+msgstr ""
+
+#: vc-map.php:11317
+msgid "Displaying mailchimp newsletter form."
+msgstr ""
+
+#: vc-map.php:11356
+msgid "Products Carousel"
+msgstr ""
+
+#: vc-map.php:11357
+msgid "Displaying products in carousel."
+msgstr ""
+
+#: vc-map.php:11370
+msgid "The number of campaigns to show."
+msgstr ""
+
+#: vc-map.php:11558
+msgid "CountDown"
+msgstr ""
+
+#: vc-map.php:11559
+msgid "Displaying Countdown Timer."
+msgstr ""
+
+#: vc-map.php:11568
+msgid "Time"
+msgstr ""
+
+#: widgets/contact-form-7.php:16
+msgid "Contact Form 7"
+msgstr ""
+
+#: widgets/contact-form-7.php:19
+msgid "Display Contact Form 7 for Widgets."
+msgstr ""
+
+#: widgets/contact-form-7.php:62 widgets/instagram.php:82
+#: widgets/recentposts.php:163 widgets/socials.php:151 widgets/twitter.php:182
+msgid "Title:"
+msgstr ""
+
+#: widgets/contact-form-7.php:67
+msgid "Some Texts:"
+msgstr ""
+
+#: widgets/contact-form-7.php:72
+msgid "Form:"
+msgstr ""
+
+#: widgets/information.php:24
+msgid "Information"
+msgstr ""
+
+#: widgets/information.php:27
+msgid "Display Information"
+msgstr ""
+
+#: widgets/information.php:110
+msgid "Hour:"
+msgstr ""
+
+#: widgets/information.php:115
+msgid "Address:"
+msgstr ""
+
+#: widgets/information.php:120
+msgid "Phone:"
+msgstr ""
+
+#: widgets/information.php:125
+msgid "Email:"
+msgstr ""
+
+#: widgets/information.php:130
+msgid "Icon Color (ex: #ffb600):"
+msgstr ""
+
+#: widgets/information.php:135
+msgid "Icon: Font Size (ex: 18px):"
+msgstr ""
+
+#: widgets/information.php:140
+msgid "Text Color (ex: #e3e3e3):"
+msgstr ""
+
+#: widgets/information.php:145
+msgid "Text: Left Padding (ex: 10px):"
+msgstr ""
+
+#: widgets/information.php:150
+msgid "Item Bottom Margin (ex: 15px):"
+msgstr ""
+
+#: widgets/information.php:155
+msgid "Wrap Margin: (ex: 0px 50px 0px 0px)"
+msgstr ""
+
+#: widgets/instagram.php:19
+msgid "Instagram Photos"
+msgstr ""
+
+#: widgets/instagram.php:22
+msgid "Display images from Instagram."
+msgstr ""
+
+#: widgets/instagram.php:87 widgets/twitter.php:187
+msgid "Username:"
+msgstr ""
+
+#: widgets/instagram.php:91 widgets/recentposts.php:168 widgets/twitter.php:192
+msgid "Count:"
+msgstr ""
+
+#: widgets/instagram.php:95
+msgid "Number of column?"
+msgstr ""
+
+#: widgets/instagram.php:97 widgets/links.php:213 widgets/links.php:221
+msgid "2"
+msgstr ""
+
+#: widgets/instagram.php:98 widgets/links.php:222
+msgid "3"
+msgstr ""
+
+#: widgets/instagram.php:99 widgets/links.php:223
+msgid "4"
+msgstr ""
+
+#: widgets/instagram.php:103
+msgid "Gutter"
+msgstr ""
+
+#: widgets/instagram.php:105
+msgid "0"
+msgstr ""
+
+#: widgets/instagram.php:106 widgets/links.php:212 widgets/links.php:220
+msgid "1"
+msgstr ""
+
+#: widgets/instagram.php:107 widgets/links.php:224
+msgid "5"
+msgstr ""
+
+#: widgets/instagram.php:108 widgets/links.php:228
+msgid "9"
+msgstr ""
+
+#: widgets/instagram.php:109 widgets/links.php:231
+msgid "12"
+msgstr ""
+
+#: widgets/instagram.php:110
+msgid "15"
+msgstr ""
+
+#: widgets/instagram.php:138
+msgid "Unable to communicate with Instagram."
+msgstr ""
+
+#: widgets/instagram.php:142
+msgid "Instagram did not return a 200."
+msgstr ""
+
+#: widgets/instagram.php:150 widgets/instagram.php:158
+#: widgets/instagram.php:162
+msgid "Instagram has returned invalid data."
+msgstr ""
+
+#: widgets/instagram.php:174
+msgid "Instagram Image"
+msgstr ""
+
+#: widgets/instagram.php:206
+msgid "Instagram did not return any images."
+msgstr ""
+
+#: widgets/links.php:49
+msgid "Display Links"
+msgstr ""
+
+#: widgets/links.php:210
+msgid "Number of column"
+msgstr ""
+
+#: widgets/links.php:218
+msgid "Number of links to show"
+msgstr ""
+
+#: widgets/links.php:225
+msgid "6"
+msgstr ""
+
+#: widgets/links.php:226
+msgid "7"
+msgstr ""
+
+#: widgets/links.php:227
+msgid "8"
+msgstr ""
+
+#: widgets/links.php:229
+msgid "10"
+msgstr ""
+
+#: widgets/links.php:230
+msgid "11"
+msgstr ""
+
+#: widgets/links.php:232
+msgid "13"
+msgstr ""
+
+#: widgets/links.php:233
+msgid "14"
+msgstr ""
+
+#: widgets/links.php:238
+msgid "Link Color (ex: #303030):"
+msgstr ""
+
+#: widgets/links.php:243
+msgid "Item Bottom Margin (ex: 5px):"
+msgstr ""
+
+#: widgets/links.php:248
+msgid "Link Text 1:"
+msgstr ""
+
+#: widgets/links.php:252
+msgid "Link URL 1:"
+msgstr ""
+
+#: widgets/links.php:257
+msgid "Link Text 2:"
+msgstr ""
+
+#: widgets/links.php:261
+msgid "Link URL 2:"
+msgstr ""
+
+#: widgets/links.php:266
+msgid "Link Text 3:"
+msgstr ""
+
+#: widgets/links.php:270
+msgid "Link URL 3:"
+msgstr ""
+
+#: widgets/links.php:275
+msgid "Link Text 4:"
+msgstr ""
+
+#: widgets/links.php:279
+msgid "Link URL 4:"
+msgstr ""
+
+#: widgets/links.php:284
+msgid "Link Text 5:"
+msgstr ""
+
+#: widgets/links.php:288
+msgid "Link URL 5:"
+msgstr ""
+
+#: widgets/links.php:293
+msgid "Link Text 6:"
+msgstr ""
+
+#: widgets/links.php:297
+msgid "Link URL 6:"
+msgstr ""
+
+#: widgets/links.php:302
+msgid "Link Text 7:"
+msgstr ""
+
+#: widgets/links.php:306
+msgid "Link URL 7:"
+msgstr ""
+
+#: widgets/links.php:311
+msgid "Link Text 8:"
+msgstr ""
+
+#: widgets/links.php:315
+msgid "Link URL 8:"
+msgstr ""
+
+#: widgets/links.php:320
+msgid "Link Text 9:"
+msgstr ""
+
+#: widgets/links.php:324
+msgid "Link URL 9:"
+msgstr ""
+
+#: widgets/links.php:329
+msgid "Link Text 10:"
+msgstr ""
+
+#: widgets/links.php:333
+msgid "Link URL 10:"
+msgstr ""
+
+#: widgets/links.php:338
+msgid "Link Text 11:"
+msgstr ""
+
+#: widgets/links.php:342
+msgid "Link URL 11:"
+msgstr ""
+
+#: widgets/links.php:347
+msgid "Link Text 12:"
+msgstr ""
+
+#: widgets/links.php:351
+msgid "Link URL 12:"
+msgstr ""
+
+#: widgets/links.php:356
+msgid "Link Text 13:"
+msgstr ""
+
+#: widgets/links.php:360
+msgid "Link URL 13:"
+msgstr ""
+
+#: widgets/links.php:365
+msgid "Link Text 14:"
+msgstr ""
+
+#: widgets/links.php:369
+msgid "Link URL 14:"
+msgstr ""
+
+#: widgets/recentposts.php:24
+msgid "Recent Posts Advanced"
+msgstr ""
+
+#: widgets/recentposts.php:27
+msgid "Display recent blog posts."
+msgstr ""
+
+#: widgets/recentposts.php:173
+msgid "Title Word Count Length (ex: 4):"
+msgstr ""
+
+#: widgets/recentposts.php:178
+msgid "Item Bottom Margin:"
+msgstr ""
+
+#: widgets/recentposts.php:183
+msgid "Thumbnail"
+msgstr ""
+
+#: widgets/recentposts.php:185
+msgid "Hide"
+msgstr ""
+
+#: widgets/recentposts.php:186
+msgid "Show"
+msgstr ""
+
+#: widgets/recentposts.php:191
+msgid "Thumbnail Width:"
+msgstr ""
+
+#: widgets/recentposts.php:196
+msgid "Thumbnail Right Margin:"
+msgstr ""
+
+#: widgets/recentposts.php:201
+msgid "Title Size (ex: 18px):"
+msgstr ""
+
+#: widgets/recentposts.php:206
+msgid "Title Color (ex: #e3e3e3):"
+msgstr ""
+
+#: widgets/recentposts.php:211
+msgid "Meta Color (ex: #303030):"
+msgstr ""
+
+#: widgets/recentposts.php:216
+msgid "Border Color (ex: #303030):"
+msgstr ""
+
+#: widgets/socials.php:36
+msgid "Socials"
+msgstr ""
+
+#: widgets/socials.php:39
+msgid "Display the socials."
+msgstr ""
+
+#: widgets/socials.php:131
+msgid "Twitter URL:"
+msgstr ""
+
+#: widgets/socials.php:132
+msgid "Facebook URL:"
+msgstr ""
+
+#: widgets/socials.php:133
+msgid "Youtube URL:"
+msgstr ""
+
+#: widgets/socials.php:134
+msgid "Vimeo URL:"
+msgstr ""
+
+#: widgets/socials.php:135
+msgid "Tumblr URL:"
+msgstr ""
+
+#: widgets/socials.php:136
+msgid "Pinterest URL:"
+msgstr ""
+
+#: widgets/socials.php:137
+msgid "LinkedIn URL:"
+msgstr ""
+
+#: widgets/socials.php:138
+msgid "Instagram URL:"
+msgstr ""
+
+#: widgets/socials.php:139
+msgid "Github URL:"
+msgstr ""
+
+#: widgets/socials.php:140
+msgid "Apple URL:"
+msgstr ""
+
+#: widgets/socials.php:141
+msgid "Android URL:"
+msgstr ""
+
+#: widgets/socials.php:142
+msgid "Behance URL:"
+msgstr ""
+
+#: widgets/socials.php:143
+msgid "Dribbble URL:"
+msgstr ""
+
+#: widgets/socials.php:144
+msgid "Flickr URL:"
+msgstr ""
+
+#: widgets/socials.php:145
+msgid "Paypal URL:"
+msgstr ""
+
+#: widgets/socials.php:146
+msgid "Soundcloud URL:"
+msgstr ""
+
+#: widgets/socials.php:147
+msgid "Spotify URL:"
+msgstr ""
+
+#: widgets/socials.php:156
+msgid "Width:"
+msgstr ""
+
+#: widgets/socials.php:161
+msgid "Height:"
+msgstr ""
+
+#: widgets/socials.php:166
+msgid "Icon Font Size:"
+msgstr ""
+
+#: widgets/socials.php:171
+msgid "Rounded:"
+msgstr ""
+
+#: widgets/socials.php:176
+msgid "Spacing Between Items:"
+msgstr ""
+
+#: widgets/spacer.php:15
+msgid "Empty Space"
+msgstr ""
+
+#: widgets/spacer.php:18
+msgid "Blank space with custom height."
+msgstr ""
+
+#: widgets/spacer.php:53
+msgid "Desktop screen:"
+msgstr ""
+
+#: widgets/spacer.php:56
+msgid "Mobile screen:"
+msgstr ""
+
+#: widgets/twitter.php:32
+msgid "Lastest Tweets"
+msgstr ""
+
+#: widgets/twitter.php:35
+msgid "Display Lastest Tweets."
+msgstr ""
+
+#: widgets/twitter.php:197
+msgid "Consumer Key:"
+msgstr ""
+
+#: widgets/twitter.php:202
+msgid "Consumer Secret:"
+msgstr ""
+
+#: widgets/twitter.php:207
+msgid "Access Token:"
+msgstr ""
+
+#: widgets/twitter.php:212
+msgid "Access Token Secret:"
+msgstr ""
+
+#: widgets/twitter.php:217
+msgid "Date Type:"
+msgstr ""
+
+#: widgets/twitter.php:219
+msgid "Date"
+msgstr ""
+
+#: widgets/twitter.php:220
+msgid "Time Ago"
+msgstr ""
+
+#: widgets/twitter.php:225
+msgid "Time of cache : (in second)"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "WPRT Addons for Agrikole"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://ninzio.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Adding Hooks, Custom Post Type, VC Shortcodes, Google API - for Agrikole "
+"Theme"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Ninzio Themes"
+msgstr ""
