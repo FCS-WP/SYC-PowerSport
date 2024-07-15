@@ -16,8 +16,8 @@
 .ppocta-ft-fix {
   width: 52px;
   position: fixed;
-  bottom: 15px;
-  right: 30px;
+  bottom: 5px;
+  right: 33px;
   text-align: center;
   z-index: 99999;
 }
@@ -45,7 +45,7 @@ a#whatsappButton span {
   z-index: 10;
   display: none;
   padding: 10px;
-  left: 56px;
+  right: 56px;
   width: 240px;
   line-height: 16px;
   border-radius: 4px;
