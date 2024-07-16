@@ -58,3 +58,15 @@ a#whatsappButton:hover span {
   border: 1px solid #dca;
   background: #fffaf0;
 }
+.wpbs-calendars-wrapper {
+  max-width: 100% !important;
+}
+.wpbs-calendar-wrapper {
+  min-height: 500px !important;
+}
+.wpbs-calendar {
+  max-width: 100% !important;
+}
+.wpbs-main-wrapper .wpbs-form-container{
+  max-width: 100% !important;
+}
