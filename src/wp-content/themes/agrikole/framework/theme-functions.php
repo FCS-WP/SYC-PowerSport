@@ -773,6 +773,10 @@ function agrikole_header_social_options() {
 			'label' => esc_html__( 'LinkedIn', 'agrikole' ),
 			'icon_class' => 'fa fa-linkedin',
 		),
+		'whatsapp'  => array(
+			'label' => esc_html__( 'WhatsApp', 'agrikole' ),
+			'icon_class' => 'fa fa-whatsapp',
+		),
 	) );
 }
 

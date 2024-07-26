@@ -29,6 +29,7 @@ class WPRT_Socials extends WP_Widget {
             'paypal' => '',
             'soundcloud' => '',
             'spotify' => '',
+            'whatsapp' => '',
         );
 
         parent::__construct(
@@ -116,6 +117,7 @@ class WPRT_Socials extends WP_Widget {
         $instance['behance'] = strip_tags( $new_instance['behance'] );
         $instance['dribbble'] = strip_tags( $new_instance['dribbble'] );
         $instance['flickr'] = strip_tags( $new_instance['flickr'] );
+        $instance['whatsapp'] = strip_tags( $new_instance['whatsapp'] );
         $instance['paypal'] = strip_tags( $new_instance['paypal'] );
         $instance['soundcloud'] = strip_tags( $new_instance['soundcloud'] );
         $instance['spotify'] = strip_tags( $new_instance['spotify'] );
@@ -142,6 +144,7 @@ class WPRT_Socials extends WP_Widget {
             'behance' => esc_html__( 'Behance URL:', 'agrikole' ),
             'dribbble' => esc_html__( 'Dribbble URL:', 'agrikole' ),    
             'flickr' => esc_html__( 'Flickr URL:', 'agrikole' ),
+            'whatsapp' => esc_html__( 'Whatsapp URL:', 'agrikole' ),
             'paypal' => esc_html__( 'Paypal URL:', 'agrikole' ),
             'soundcloud' => esc_html__( 'Soundcloud URL:', 'agrikole' ),
             'spotify' => esc_html__( 'Spotify URL:', 'agrikole' )
