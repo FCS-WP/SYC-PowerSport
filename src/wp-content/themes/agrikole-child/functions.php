@@ -22,3 +22,11 @@ foreach (glob(THEME_DIR.'-child' . "/includes/*.php") as $file_name) {
     require_once ( $file_name );
 }
 
+function myContentFooter() {
+    ?>
+    <div class="ppocta-ft-fix">
+        <a id="whatsappButton" href="#" target="_blank"><span>Whatsapp: +65 89012**</span></a>
+    </div>
+    <?php
+}
+add_action( 'wp_footer', 'myContentFooter' );
