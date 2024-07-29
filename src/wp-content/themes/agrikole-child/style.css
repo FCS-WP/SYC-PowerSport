@@ -13,6 +13,7 @@
 .wpbc_booking_form_simple .wpbc__form__div {
   max-width: none !important;
 }
+
 .ppocta-ft-fix {
   width: 52px;
   position: fixed;
@@ -28,7 +29,7 @@
   height: 50px;
   line-height: 50px;
   border-radius: 100%;
-  background: url("/wp-content/uploads/2024/07/whatsapp-icon.svg") center center
+  background: url("/wp-content/uploads/2024/07/whatsapp-icon-1.svg") center center
     no-repeat;
   background-size: 100%;
 }
@@ -37,7 +38,7 @@ a#whatsappButton {
 }
 a#whatsappButton:hover {
   text-decoration: none;
-  background: url("/wp-content/uploads/2024/07/whatsapp-icon.svg") center center
+  background: url("/wp-content/uploads/2024/07/whatsapp-icon-1.svg") center center
     no-repeat;
   background-size: 100%;
 }
