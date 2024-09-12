@@ -1,3 +1,5 @@
+@import "./_mixins.scss";
+@import "./_fonts.scss";
 .page-id-281 .full_wrapper.padtb_100_100 .col-lg-4 {
   display: none;
 }
@@ -397,8 +399,8 @@ del {
     padding: 27px 30px;
     border-radius: 50%;
   }
-  .elementor-image-box-content{
-    .elementor-image-box-description{
+  .elementor-image-box-content {
+    .elementor-image-box-description {
       padding-top: 10px;
       padding-left: 50px;
       padding-right: 50px;
@@ -438,8 +440,8 @@ del {
     padding: 27px 30px;
     border-radius: 50%;
   }
-  .elementor-image-box-content{
-    .elementor-image-box-description{
+  .elementor-image-box-content {
+    .elementor-image-box-description {
       padding-top: 10px;
       padding-left: 50px;
       padding-right: 50px;
@@ -463,7 +465,7 @@ del {
   }
   .elementor-image-box-content {
     padding: 0 10%;
-    .elementor-image-box-description{
+    .elementor-image-box-description {
       margin-top: 20px;
     }
   }
@@ -473,7 +475,6 @@ del {
       transition: all 0.5s ease;
     }
   }
-  
 }
 
 body.home {
@@ -483,8 +484,8 @@ body.home {
   background-position: top center !important;
   background-attachment: fixed !important;
 }
-body{
-  color: #404040 ;
+body {
+  color: #404040;
 }
 .menu li a {
   color: #404040;
@@ -497,7 +498,7 @@ body{
 }
 
 .border-title-bottom {
-  h2{
+  h2 {
     &::before {
       position: absolute;
       margin: auto;
@@ -511,6 +512,81 @@ body{
     }
   }
 }
-.site-navigation ul.menu li.menu-item-has-children:after{
+.site-navigation ul.menu li.menu-item-has-children:after {
   display: none !important;
+}
+.header-style-2 {
+  #site-header {
+    .wrap-inner {
+      #site-logo {
+        flex: none;
+        width: 50%;
+        #site-logo-inner {
+          margin-left: 0;
+        }
+      }
+      .header-info {
+        flex: none;
+        width: 35%;
+        text-align: end;
+      }
+      .header-socials {
+        flex: none;
+        width: 15%;
+        a {
+          background-color: #c3262e;
+          color: white;
+        }
+      }
+    }
+    .header-search-wrap {
+      .header-search-trigger {
+        color: white !important;
+      }
+    }
+    .nav-top-cart-wrapper {
+      .nav-cart-trigger {
+        color: white !important;
+      }
+    }
+  }
+  .site-navigation-wrap {
+    background: black !important;
+  }
+}
+.project-box {
+  .project-text {
+    padding: 0 !important;
+    .title {
+      text-align: center;
+      a{
+        font-family: "Franklin Gothic Heavy";
+        text-transform: uppercase;
+      }
+    }
+    .button {
+      margin-top: 65% !important;
+      margin-left: 20px;
+      margin-right: 20px;
+      a {
+        width: 100%;
+        text-align: center;
+      }
+    }
+  }
+  .project-image {
+    .title-wrap {
+      text-align: center;
+      padding: 0 !important;
+      a{
+        font-family: "Franklin Gothic Heavy";
+        text-transform: uppercase;
+      }
+    }
+  }
+  .inner {
+    &:after {
+      background: #0000004f !important;
+    }
+  }
 }
