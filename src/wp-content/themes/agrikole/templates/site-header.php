@@ -36,8 +36,8 @@ agrikole_mobi_nav_extra(); ?>
         <div class="site-header-inner agrikole-container">
         	<div class="wrap-inner">
 	        <?php
+			agrikole_header_logo();
 	        agrikole_header_info();
-        	agrikole_header_logo();
         	agrikole_header_socials();
 	        ?>
 	    	</div>

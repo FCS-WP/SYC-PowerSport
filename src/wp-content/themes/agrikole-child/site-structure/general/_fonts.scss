@@ -1,10 +1,4 @@
 /* Font face for web template */
-@include font-face(Arial, "../fonts/Arial/SVN-Arial-Regular", 500); 
-@include font-face(Arial, "../fonts/Arial/SVN-Arial-Bold", 900); 
-@include font-face(Arial, "../fonts/Arial/SVN-Arial-Italic", 500); 
-@include font-face(Arial, "../fonts/Arial/SVN-Arial-Bold-Italic", 900); 
+@include font-face("Franklin Gothic Heavy", "../fonts/Franklin-Gothic-Heavy/Franklin-Gothic-Heavy-Regular", 500);
+@include font-face("Franklin Gothic Book", "../fonts/Franklin-Gothic-Book/Franklin-Gothic-Book-Regular", 500);  
 
-
-body {
-	font-family: "Arial", serif !important;
-}
