@@ -562,10 +562,17 @@ body {
       a{
         font-family: "Franklin Gothic Heavy";
         text-transform: uppercase;
+        line-height: 35px;
+        span{
+          font-size: 22px;
+        }
+        p{
+          margin-bottom: 0;
+        }
       }
     }
     .button {
-      margin-top: 65% !important;
+      margin-top: 75% !important;
       margin-left: 20px;
       margin-right: 20px;
       a {
@@ -577,10 +584,17 @@ body {
   .project-image {
     .title-wrap {
       text-align: center;
-      padding: 0 !important;
+      width: 100%;
       a{
         font-family: "Franklin Gothic Heavy";
         text-transform: uppercase;
+        line-height: 35px;
+        span{
+          font-size: 22px;
+        }
+        p{
+          margin-bottom: 0;
+        }
       }
     }
   }
